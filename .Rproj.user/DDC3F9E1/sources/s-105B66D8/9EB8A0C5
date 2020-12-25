@@ -1,7 +1,7 @@
 {
     "id": "9EB8A0C5",
-    "path": "~/GitHub/Aboutme/Surya_profile_page.Rmd",
-    "project_path": "Surya_profile_page.Rmd",
+    "path": "~/GitHub/Aboutme/Index.Rmd",
+    "project_path": "Index.Rmd",
     "type": "r_markdown",
     "hash": "1191418226",
     "contents": "",
@@ -11,15 +11,15 @@
     "relative_order": 2,
     "properties": {
         "tempName": "Untitled2",
-        "cursorPosition": "41,0",
+        "cursorPosition": "11,103",
         "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1608926451,
+    "lastKnownWriteTime": 1608927507,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1608926451694,
+    "last_content_update": 1608927507622,
     "read_only": false,
     "read_only_alternatives": []
 }
