@@ -39,3 +39,23 @@ B.tech in Agricultural Engineering | July 2009 - June 2013
 
 **Indian Institute of Technology (IIT), Kanpur, India ** | Senior Project Associate | November 2015 - September 2018
 
+## Publications
+
+**Gupta, S. **, Lehmann, P., Bonetti, S., Papritz, A. and Or, D.: Global prediction of soil saturated hydraulic conductivity using random forest in a Covariate-based Geo Transfer Functions (CoGTF) framework. Manuscript submitted to Journal of Advances in Modeling Earth Systems (JAMES). 2020 [Dataset](https://zenodo.org/record/3935359#.X-dWZthKhPY)
+
+**Gupta, S.**, Hengl, T., Lehmann, P., Bonetti, S., and Or, D.: SoilKsatDB: global soil saturated hydraulic conductivity measurements for geoscience applications, Earth Syst. Sci. Data Discuss. 2020 [Dataset](https://zenodo.org/record/4384592#.X-dWwNhKhPZ)
+
+Lehmann, P., Leshchinsky, P., **Gupta, S.**, Mirus, B., Bickel, S., Lu, N., and Or, D.: Clays are not created equal: how clay mineral type affects soil parameterization. Manuscript submitted to Geophysical Research Letters (GRL). 2020
+
+**Gupta S.**, K. S. Harsha., S.K. Dash, S. Adla., S. Tripathi, R. Sinha, D. Paul and I. S. Sen.: Setting up a CZO in the Heterogeneous Ecosystem of an Agro Rural Terrain (HEART) of the Ganga Basin. EOS, 100, 2019
+
+Sinha, R., **Gupta, S.** and Nepal, S.:** Groundwater dynamics in North Bihar plains. Current Science, 114(12),2482-2493, 2018
+
+**Gupta, S.** and Kumar, S.: Simulating climate change impact on soil erosion using RUSLE model, A case study in a watershed of mid-Himalayan landscape. Journal of Earth System Science, 126(4), 43, 2017
+
+**Gupta, S.** and Kumar, S.: Simulating climate change Impact on soil carbon sequestration in agro-ecosystem of Mid Himalayan landscape using CENTURY Model. Environ Earth Sci. 76: 394, 2017
+
+Kumar, S., and **Gupta, S.**: Geospatial approach in mapping soil erodibility using CartoDEM, A case study in hilly watershed of Lower Himalayan Range. Journal of Earth System Science, 125(7), 1463-1472, 2016.
+
+**Gupta, S.** and Singh, J.P.: Multiple well point system for irrigation and drainage in south western Punjab, Journal of Research, 51:175-180, 2014.
+
