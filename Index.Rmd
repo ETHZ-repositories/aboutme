@@ -1,6 +1,6 @@
 ---
 title: "Surya Gupta"
-image: "C:/Users/guptasu.D/Downloads/surya.jpeg"
+image: "surya.jpeg"
 links:
   - label: LinkedIn
     url: "https://www.linkedin.com/in/surya-gupta-1010b0100/"
