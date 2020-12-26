@@ -45,7 +45,7 @@ B.tech in Agricultural Engineering | July 2009 - June 2013
 
 **Gupta, S.**, Hengl, T., Lehmann, P., Bonetti, S., and Or, D.: SoilKsatDB: global soil saturated hydraulic conductivity measurements for geoscience applications, Earth Syst. Sci. Data Discuss. 2020 [Dataset](https://zenodo.org/record/4384592#.X-dWwNhKhPZ)
 
-Lehmann, P., Leshchinsky, P., **Gupta, S.**, Mirus, B., Bickel, S., Lu, N., and Or, D.: Clays are not created equal: how clay mineral type affects soil parameterization. Manuscript submitted to Geophysical Research Letters (GRL). 2020
+Lehmann, P., Leshchinsky, B., **Gupta, S.**, Mirus, B., Bickel, S., Lu, N., and Or, D.: Clays are not created equal: how clay mineral type affects soil parameterization. Manuscript submitted to Geophysical Research Letters (GRL). 2020
 
 **Gupta S.**, K. S. Harsha., S.K. Dash, S. Adla., S. Tripathi, R. Sinha, D. Paul and I. S. Sen.: Setting up a CZO in the Heterogeneous Ecosystem of an Agro Rural Terrain (HEART) of the Ganga Basin. EOS, 100, 2019
 
