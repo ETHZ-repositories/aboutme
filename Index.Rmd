@@ -68,7 +68,7 @@ Sinha, R., Kumar, G., Mishra,K and **Gupta, S.**: The Kosi megafan: Morphology, 
 
 ## Conferences Abstracts 
 
-Lehmann, P., Leshchinsky, B.,**Gupta, S.**, Mirus, B., Bickel, S., Lu, N.,and Or, D. (2021): Clays are not created equal-effects of clay mineraltype on soil hydraulic and mechanical properties (No. ISMC2021-99).Copernicus Meetings,2021.
+Lehmann, P., Leshchinsky, B., **Gupta, S.**, Mirus, B., Bickel, S., Lu, N.,and Or, D.: Clays are not created equal-effects of clay mineraltype on soil hydraulic and mechanical properties (No. ISMC2021-99).Copernicus Meetings, 2021.
 
 **Gupta, S.**,  Lehmann,  P.,  Papritz,  A.,  Hengl,  T.,  Bonetti,  S.,  and  Or,D.: Global Mapping of Soil Saturated Hydraulic Conductivity Com-bining Legacy Data, Spatial Covariates and Machine Learning (No.ISMC2021-90). Copernicus Meetings,2021.
 
