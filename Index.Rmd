@@ -11,7 +11,7 @@ links:
   - label: Google Scholar
     url: "https://scholar.google.com/citations?hl=en&user=K841NL0AAAAJ&view_op=list_works&sortby=pubdate"
   - label: CV
-    url: "https://drive.google.com/file/d/1235z1F-c6zV1tiUEFgsvwK4IfOUh3WfY/view?usp=sharing"
+    url: "https://drive.google.com/file/d/16WO45WiqVaKE7CqVbjS--bQgi2vE0uT0/view?usp=sharing"
 
 output:
   postcards::trestles
