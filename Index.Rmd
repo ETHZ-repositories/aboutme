@@ -2,8 +2,7 @@
 title: "Surya Gupta"
 image: "surya.jpeg"
 links:
-  - label: LinkedIn
-    url: "https://www.linkedin.com/in/surya-gupta-1010b0100/"
+
   - label: Twitter
     url: "https://twitter.com/suryagupta479"
   - label: GitHub
@@ -12,6 +11,8 @@ links:
     url: "https://scholar.google.com/citations?hl=en&user=K841NL0AAAAJ&view_op=list_works&sortby=pubdate"
   - label: CV
     url: "https://drive.google.com/file/d/1i67V6Roj_y8rM3fishfJUx_OfgptIg9E/view?usp=sharing"
+  - label: Blog
+    url: "https://blog.kritsnam.in/farmers-and-me/"
 
 output:
   postcards::trestles
