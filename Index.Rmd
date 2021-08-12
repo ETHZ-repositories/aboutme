@@ -10,7 +10,7 @@ links:
   - label: Google Scholar
     url: "https://scholar.google.com/citations?hl=en&user=K841NL0AAAAJ&view_op=list_works&sortby=pubdate"
   - label: CV
-    url: "https://drive.google.com/file/d/1GPUQ1hv3uqbrlQshZ4516ToJeWnq2A5a/view?usp=sharing"
+    url: "https://drive.google.com/file/d/1WrymEf_coI1mD10TEXPZ4bfRy7SkUrRa/view?usp=sharing"
   - label: Blog
     url: "https://blog.kritsnam.in/farmers-and-me/"
 
