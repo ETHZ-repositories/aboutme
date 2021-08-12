@@ -10,7 +10,7 @@ links:
   - label: Google Scholar
     url: "https://scholar.google.com/citations?hl=en&user=K841NL0AAAAJ&view_op=list_works&sortby=pubdate"
   - label: CV
-    url: "https://drive.google.com/file/d/1i67V6Roj_y8rM3fishfJUx_OfgptIg9E/view?usp=sharing"
+    url: "https://drive.google.com/file/d/1GPUQ1hv3uqbrlQshZ4516ToJeWnq2A5a/view?usp=sharing"
   - label: Blog
     url: "https://blog.kritsnam.in/farmers-and-me/"
 
@@ -44,7 +44,7 @@ B.tech in Agricultural Engineering | July 2009 - June 2013
 
 ## Publications
 
-Adla, S., **Gupta, S. **, Karumanchi S.H., Tripathi, S., Disse,M., Pande,S.: Agricultural advisory diagnostics using a community driven data-based approach: test case in an intensively managed rural landscape in the Ganga River Basin, India. Manuscript submitted to **Computers and Electronics in Agriculture**, 2021
+Adla, S., **Gupta, S. **, Karumanchi S.H., Tripathi, S., Disse,M., Pande,S.: Agricultural advisory diagnostics using a community driven data-based approach: test case in an intensively managed rural landscape in the Ganga River Basin, India. Manuscript submitted to **Agricultural Systems**, 2021
 
 **Gupta, S. **, Bonetti, S., Lehmann, P., and Or, D.: Limited role of soil texture in mediating natural vegetation response to rainfall anomalies. Manuscript submitted to  **Environmental Research Letters**, 2021
 
