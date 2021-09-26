@@ -47,7 +47,7 @@ Adla, S., **Gupta, S. **, Karumanchi S.H., Tripathi, S., Disse,M., Pande,S.: Agr
 
 **Gupta, S. **, Bonetti, S., Lehmann, P., and Or, D.: Limited role of soil texture in mediating natural vegetation response to rainfall anomalies. Manuscript submitted to  **Environmental Research Letters**, 2021
 
-Lehmann, P., Leshchinsky, B., **Gupta, S.**, Mirus, B., Bickel, S., Lu, N., and Or, D.: Clays are not created equal: how clay mineral type affects soil parameterization. Manuscript accepted, **Geophysical Research Letters** (GRL), 2021, in press.
+Lehmann, P., Leshchinsky, B., **Gupta, S.**, Mirus, B., Bickel, S., Lu, N., and Or, D.: Clays are not created equal: how clay mineral type affects soil parameterization. Manuscript accepted, **Geophysical Research Letters** (GRL), 2021, **in press**.
 
 **Gupta, S. **, Lehmann, P., Bonetti, S., Papritz, A. and Or, D.: Global prediction of soil saturated hydraulic conductivity using random forest in a Covariate-based GeoTransfer Function (CoGTF) framework. **Journal of Advances in Modeling Earth Systems**, 13, e2020MS002242, [2021](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2020MS002242) [Dataset](https://zenodo.org/record/3935359#.X-dWZthKhPY)
 
