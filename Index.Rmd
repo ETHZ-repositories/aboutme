@@ -43,11 +43,13 @@ B.tech in Agricultural Engineering | July 2009 - June 2013
 
 ## Publications
 
+Adla, S., **Gupta, S. **, Karumanchi S.H., Tripathi, S., Disse,M., Pande,S.: Agricultural advisory diagnostics using a community driven data-based approach: test case in an intensively managed rural landscape in the Ganga River Basin, India. Manuscript submitted to **Frontiers in Water (Water and Human Systems)**, 2021
+
 **Gupta, S. **, Papritz, A., Lehmann, P., Hengl, T., Bonetti, S., and Or, D.: GSHP: Global soil hydraulic properties database. Manuscript submitted to **Scientific Data**, 2021
 
 **Gupta, S. **, Bonetti, S., Lehmann, P., and Or, D.: Limited role of soil texture in mediating natural vegetation response to rainfall anomalies. Manuscript submitted to  **Environmental Research Letters**, 2021
 
-Lehmann, P., Leshchinsky, B., **Gupta, S.**, Mirus, B., Bickel, S., Lu, N., and Or, D.: Clays are not created equal: how clay mineral type affects soil parameterization. Manuscript accepted, **Geophysical Research Letters** (GRL), [2021](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2021GL095311)
+Lehmann, P., Leshchinsky, B., **Gupta, S.**, Mirus, B., Bickel, S., Lu, N., and Or, D.: Clays are not created equal: how clay mineral type affects soil parameterization. **Geophysical Research Letters** (GRL), [2021](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2021GL095311)    
 
 **Gupta, S. **, Lehmann, P., Bonetti, S., Papritz, A. and Or, D.: Global prediction of soil saturated hydraulic conductivity using random forest in a Covariate-based GeoTransfer Function (CoGTF) framework. **Journal of Advances in Modeling Earth Systems**, 13, e2020MS002242, [2021](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2020MS002242) [Dataset](https://zenodo.org/record/3935359#.X-dWZthKhPY)
 
