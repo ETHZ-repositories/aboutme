@@ -49,11 +49,14 @@ B.tech in Agricultural Engineering | July 2009 - June 2013
 
 ## Publications
 
-**Gupta, S. **, Papritz, A., Lehmann, P., Hengl, T., Bonetti, S., and Or, D.: GSHP: Global soil hydraulic properties database. Manuscript submitted to **Scientific Data**, 2021
+**Gupta, S. **, Papritz, A., Lehmann, P., Hengl, T., Bonetti, S., and Or, D.: GSHP: Global soil hydraulic properties database. Manuscript submitted to **Scientific Data**, 2022
 
-**Gupta, S. **, Bonetti, S., Lehmann, P., and Or, D.: Limited role of soil texture in mediating natural vegetation response to rainfall anomalies. Manuscript submitted to  **Environmental Research Letters**, 2021
+**Gupta, S. **, Bonetti, S., Lehmann, P., and Or, D.: Limited role of soil texture in mediating natural vegetation response to rainfall anomalies. Manuscript submitted to  **Environmental Research Letters**, 2022
 
-Adla, S., **Gupta, S. **, Karumanchi S.H., Tripathi, S., Disse,M., Pande,S.: Agricultural advisory diagnostics using a community driven data-based approach: test case in an intensively managed rural landscape in the Ganga River Basin, India. Manuscript submitted to **Frontiers in Water (Water and Human Systems)**, Accepted, [2021](https://www.frontiersin.org/articles/10.3389/frwa.2021.798241/abstract)
+Li,L., Dai, Y., Shangguan, W., Wei, N., Wei, Z., **Gupta, S.**: Multistep forecasting of soil moisture using a spatiotemporal deep encoder-decoder networks. Manuscript accepted to **Journal of Hydrometeorology**, 2022
+
+Adla, S., **Gupta, S. **, Karumanchi S.H., Tripathi, S., Disse,M., Pande,S.: Agricultural advisory diagnostics using a community driven data-based approach: test case in an intensively managed rural landscape in the Ganga River Basin, India. **Frontiers in Water (Water and Human Systems)**, [2022](https://www.frontiersin.org/articles/10.3389/frwa.2021.798241/abstract)
+
 
 Lehmann, P., Leshchinsky, B., **Gupta, S.**, Mirus, B., Bickel, S., Lu, N., and Or, D.: Clays are not created equal: how clay mineral type affects soil parameterization. **Geophysical Research Letters** (GRL), [2021](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2021GL095311)    
 
