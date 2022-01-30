@@ -53,7 +53,7 @@ B.tech in Agricultural Engineering | July 2009 - June 2013
 
 **Gupta, S. **, Bonetti, S., Lehmann, P., and Or, D.: Limited role of soil texture in mediating natural vegetation response to rainfall anomalies. Manuscript submitted to  **Environmental Research Letters**, 2022
 
-Li,L., Dai, Y., Shangguan, W., Wei, N., Wei, Z., **Gupta, S.**: Multistep forecasting of soil moisture using a spatiotemporal deep encoder-decoder networks. Manuscript accepted to **Journal of Hydrometeorology**, 2022
+Li,L., Dai, Y., Shangguan, W., Wei, N., Wei, Z., **Gupta, S.**: Multistep forecasting of soil moisture using a spatiotemporal deep encoder-decoder networks. Manuscript accepted to **Journal of Hydrometeorology**, [2022](https://journals.ametsoc.org/view/journals/hydr/aop/JHM-D-21-0131.1/JHM-D-21-0131.1.xml)
 
 Adla, S., **Gupta, S. **, Karumanchi S.H., Tripathi, S., Disse,M., Pande,S.: Agricultural advisory diagnostics using a community driven data-based approach: test case in an intensively managed rural landscape in the Ganga River Basin, India. **Frontiers in Water (Water and Human Systems)**, [2022](https://www.frontiersin.org/articles/10.3389/frwa.2021.798241/abstract)
 
