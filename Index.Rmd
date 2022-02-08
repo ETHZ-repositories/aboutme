@@ -51,7 +51,7 @@ B.tech in Agricultural Engineering | July 2009 - June 2013
 
 **Gupta, S. **, Papritz, A., Lehmann, P., Hengl, T., Bonetti, S., and Or, D.: GSHP: Global soil hydraulic properties database. Manuscript submitted to **Scientific Data**, 2022
 
-**Gupta, S. **, Bonetti, S., Lehmann, P., and Or, D.: Limited role of soil texture in mediating natural vegetation response to rainfall anomalies. **Manuscript accepted**,  **Environmental Research Letters**, 2022
+**Gupta, S. **, Bonetti, S., Lehmann, P., and Or, D.: Limited role of soil texture in mediating natural vegetation response to rainfall anomalies. Manuscript accepted,  **Environmental Research Letters**, [2022](https://iopscience.iop.org/article/10.1088/1748-9326/ac5206)
 
 Li,L., Dai, Y., Shangguan, W., Wei, N., Wei, Z., **Gupta, S.**: Multistep forecasting of soil moisture using a spatiotemporal deep encoder-decoder networks. Manuscript accepted to **Journal of Hydrometeorology**, [2022](https://journals.ametsoc.org/view/journals/hydr/aop/JHM-D-21-0131.1/JHM-D-21-0131.1.xml)
 
