@@ -41,13 +41,18 @@ M.tech in Remote sensing and GIS | August 2013 - August 2015
 B.tech in Agricultural Engineering | July 2009 - June 2013
 
 ## Experience
-**ETH, Zurich, Switzerland** | PostDoc | November 2021 - Present
+
+**University of Basel, Switzerland** | PostDoc | April 2022 - Present
+
+**ETH, Zurich, Switzerland** | PostDoc | November 2021 - March 2022
 
 **ETH, Zurich, Switzerland** | Research Assistant | August 2021 - October 2021
 
 **Indian Institute of Technology (IIT), Kanpur, India ** | Senior Project Associate | November 2015 - September 2018
 
 ## Publications
+
+**Gupta, S. **, Papritz, A., Lehmann, P., Hengl, T., Bonetti, S., and Or, D.: Global mapping of soil water characteristics parameters - fusing curated data with machine learning and environmental covariates. Manuscript submitted to **Remote Sensing**, 2022
 
 **Gupta, S. **, Papritz, A., Lehmann, P., Hengl, T., Bonetti, S., and Or, D.: GSHP: Global soil hydraulic properties database. Manuscript submitted to **Scientific Data**, 2022
 
