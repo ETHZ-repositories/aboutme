@@ -24,37 +24,37 @@ output:
 
 Surya Gupta did his PhD in Environmental Sciences at ETH Zurich. His research focuses on formulating new [pedotransfer functions](https://en.wikipedia.org/wiki/Pedotransfer_function) for soil hydraulic properties that include local soil-forming factors such as vegetation and climate information as a surrogate of soil structure.  He evaluates several statistical approaches (linear regression, random forest, and XGboost) to build the PTF using R, linking comprehensive sets of covariates with data on [soil hydraulic properties](https://www.sciencedirect.com/topics/agricultural-and-biological-sciences/soil-hydraulic-properties#:~:text=The%20three%20soil%20hydraulic%20properties,conductivity%20and%20water%2Dvapor%20contents.)
 
-email: [surya.gupta@usys.ethz.ch]()
+email: [surya.gupta@unibas.ch]()
 
 ## Education
 
-**ETH Zurich** | Zurich, Switzerland
+[ETH Zurich](https://ethz.ch/en.html)  | Zurich, Switzerland
 
 Ph.D. in Environmental Sciences | November 2018 -July 2021
 
-**Indian Institute of Remote sensing (IIRS)** | Dehradun, India
+[Indian Institute of Remote sensing (IIRS)](https://www.isro.gov.in/about-isro/indian-institute-of-remote-sensing-iirs) | Dehradun, India
 
 M.tech in Remote sensing and GIS | August 2013 - August 2015
 
-**Punjab Agricultural University ** | Ludhiana, India
+[Punjab Agricultural University](https://www.pau.edu/) | Ludhiana, India
 
 B.tech in Agricultural Engineering | July 2009 - June 2013
 
 ## Experience
 
-**University of Basel, Switzerland** | PostDoc | April 2022 - Present
+[University of Basel](https://www.unibas.ch/en.html), Switzerland | PostDoc | April 2022 - Present
 
-**ETH, Zurich, Switzerland** | PostDoc | November 2021 - March 2022
+[ETH Zurich](https://ethz.ch/en.html), Switzerland | PostDoc | November 2021 - March 2022
 
-**ETH, Zurich, Switzerland** | Research Assistant | August 2021 - October 2021
+[ETH Zurich](https://ethz.ch/en.html), Switzerland | Research Assistant | August 2021 - October 2021
 
-**Indian Institute of Technology (IIT), Kanpur, India ** | Senior Project Associate | November 2015 - September 2018
+[Indian Institute of Technology (IIT)](https://www.iitk.ac.in/), Kanpur, India | Senior Project Associate | November 2015 - September 2018
 
 ## Publications
 
 **Gupta, S. **, Papritz, A., Lehmann, P., Hengl, T., Bonetti, S., and Or, D.: GSHP: Global soil hydraulic properties database. Manuscript submitted to **Scientific Data**, 2022
 
-**Gupta, S. **, Papritz, A., Lehmann, P., Hengl, T., Bonetti, S., and Or, D.: Global Mapping of Soil Water Characteristics Parameters- Fusing Curated Data with Machine Learning and Environmental Covariates. **Remote Sensing**, 14(8):1947, [2022](https://www.mdpi.com/2072-4292/14/8/1947) 
+**Gupta, S. **, Papritz, A., Lehmann, P., Hengl, T., Bonetti, S., and Or, D.: Global Mapping of Soil Water Characteristics Parameters- Fusing Curated Data with Machine Learning and Environmental Covariates. **Remote Sensing**, 14(8):1947, [2022](https://www.mdpi.com/2072-4292/14/8/1947), [Dataset](https://zenodo.org/record/6348799#.YmJXAuhBybg) 
 
 **Gupta, S. **, Bonetti, S., Lehmann, P., and Or, D.: Limited role of soil texture in mediating natural vegetation response to rainfall anomalies. **Environmental Research Letters**, [2022](https://iopscience.iop.org/article/10.1088/1748-9326/ac5206)
 
@@ -87,6 +87,8 @@ Kumar, S., and **Gupta, S.**: Geospatial approach in mapping soil erodibility us
 Sinha, R., Kumar, G., Mishra,K and **Gupta, S.**: The Kosi megafan: Morphology, dynamics and sedimentology. Book Chapter, Cambridge University Press (Accepted), 2021
 
 ## Conferences Abstracts 
+
+**Gupta, S.**, Lehmann, P., Papritz, A., Hengl, T., Bonetti, S., and Or, D.: Global Mapping of Soil Saturated Hydraulic Conductivity Combining Legacy Data, Spatial Covariates and Machine Learning. Geological Coffee, a geoscientific dissemination project of the Geological Survey of Brazil, August 3rd, 2021.
 
 Lehmann, P., Leshchinsky, B., **Gupta, S.**, Mirus, B., Bickel, S., Lu, N.,and Or, D.: Clays are not created equal-effects of clay mineral type on soil hydraulic and mechanical properties (No. ISMC2021-99).Copernicus Meetings, 2021.
 
