@@ -52,7 +52,7 @@ B.tech in Agricultural Engineering | July 2009 - June 2013
 
 ## Publications
 
-**Gupta, S. **, Papritz, A., Lehmann, P., Hengl, T., Bonetti, S., and Or, D.: GSHP: Global soil hydraulic properties database. Manuscript **accepted**, **Scientific Data**, 2022, [Dataset](https://zenodo.org/record/6342300#.YpcWPqhBybg) 
+**Gupta, S. **, Papritz, A., Lehmann, P., Hengl, T., Bonetti, S., and Or, D.: Global soil water characteristics datasets and parameters. Manuscript **accepted**, **Scientific Data**, 2022, [Dataset](https://zenodo.org/record/6342300#.YpcWPqhBybg) 
 
 **Gupta, S. **, Papritz, A., Lehmann, P., Hengl, T., Bonetti, S., and Or, D.: Global Mapping of Soil Water Characteristics Parameters- Fusing Curated Data with Machine Learning and Environmental Covariates. **Remote Sensing**, 14(8):1947, [2022](https://www.mdpi.com/2072-4292/14/8/1947), [Dataset](https://zenodo.org/record/6348799#.YmJXAuhBybg) 
 
