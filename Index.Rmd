@@ -52,10 +52,12 @@ B.tech in Agricultural Engineering | July 2009 - June 2013
 
 ## Publications
 
+Kukal, M., Irmak, S., Dobos, R., **Gupta, S.**: Atmospheric Dryness Impacts on Crop Yields are Buffered in Soils with Higher Available Water Capacity. Manuscript **submitted**, **Geoderma**, 2022
+
 **Gupta, S. **, Lehmann, P., Bickel, S., Bonetti, S., and Or, D.: Global maps of potential and climatic plant-available soil water. Manuscript **submitted**, **Journal of Advances in Modeling Earth Systems**, 2022, [Dataset](https://zenodo.org/record/6777126#.YrwahXZBxPY)
 
 
-**Gupta, S. **, Papritz, A., Lehmann, P., Hengl, T., Bonetti, S., and Or, D.: Global soil water characteristics datasets and parameters. Manuscript **accepted**, **Scientific Data**, 2022, [Dataset](https://zenodo.org/record/6342300#.YpcWPqhBybg) 
+**Gupta, S. **, Papritz, A., Lehmann, P., Hengl, T., Bonetti, S., and Or, D.: Global Soil Hydraulic Properties dataset based on legacy site observations and robust parameterization. Manuscript **accepted**, **Scientific Data**, 2022, [Dataset](https://zenodo.org/record/6342300#.YpcWPqhBybg) 
 
 **Gupta, S. **, Papritz, A., Lehmann, P., Hengl, T., Bonetti, S., and Or, D.: Global Mapping of Soil Water Characteristics Parameters- Fusing Curated Data with Machine Learning and Environmental Covariates. **Remote Sensing**, 14(8):1947, [2022](https://www.mdpi.com/2072-4292/14/8/1947), [Dataset](https://zenodo.org/record/6348799#.YmJXAuhBybg) 
 
