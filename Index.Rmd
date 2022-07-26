@@ -57,7 +57,7 @@ Kukal, M., Irmak, S., Dobos, R., **Gupta, S.**: Atmospheric Dryness Impacts on C
 **Gupta, S. **, Lehmann, P., Bickel, S., Bonetti, S., and Or, D.: Global maps of potential and climatic plant-available soil water. Manuscript **submitted**, **Journal of Advances in Modeling Earth Systems**, 2022, [Dataset](https://zenodo.org/record/6777126#.YrwahXZBxPY)
 
 
-**Gupta, S. **, Papritz, A., Lehmann, P., Hengl, T., Bonetti, S., and Or, D.: Global Soil Hydraulic Properties dataset based on legacy site observations and robust parameterization. Manuscript **accepted**, **Scientific Data**, 2022, [Dataset](https://zenodo.org/record/6342300#.YpcWPqhBybg) 
+**Gupta, S. **, Papritz, A., Lehmann, P., Hengl, T., Bonetti, S., and Or, D.: Global Soil Hydraulic Properties dataset based on legacy site observations and robust parameterization. **Scientific Data**, 9, 444, [2022](https://www.nature.com/articles/s41597-022-01481-5), [Dataset](https://zenodo.org/record/6640246#.Yt_3eHZBxPY) 
 
 **Gupta, S. **, Papritz, A., Lehmann, P., Hengl, T., Bonetti, S., and Or, D.: Global Mapping of Soil Water Characteristics Parameters- Fusing Curated Data with Machine Learning and Environmental Covariates. **Remote Sensing**, 14(8):1947, [2022](https://www.mdpi.com/2072-4292/14/8/1947), [Dataset](https://zenodo.org/record/6348799#.YmJXAuhBybg) 
 
