@@ -24,6 +24,9 @@ output:
 
 Surya Gupta did his PhD in Environmental Sciences at ETH Zurich. His research focuses on formulating new [pedotransfer functions](https://en.wikipedia.org/wiki/Pedotransfer_function) for soil hydraulic properties that include local soil-forming factors such as vegetation and climate information as a surrogate of soil structure.  He evaluates several statistical approaches (linear regression, random forest, and XGboost) to build the PTF using R, linking comprehensive sets of covariates with data on [soil hydraulic properties](https://www.sciencedirect.com/topics/agricultural-and-biological-sciences/soil-hydraulic-properties#:~:text=The%20three%20soil%20hydraulic%20properties,conductivity%20and%20water%2Dvapor%20contents.)
 
+General research areas are soil science, hydrology, and related remote sensing applications. Specially focused on:
+1. Global and national digital mapping for soil basic and hydraulic properties (saturated hydraulic conductivity, vG parameters, etc.) 2. Defining the relationship between soil erosion and soil hydraulic properties. 3. Testing different methods to reduce clustering and overfitting in ML algorithms. 4. Developing the PTF (Pedo-Transfer Function) or CoGTF (Covariate-based GeoTransfer Function) 
+
 email: [surya.gupta@unibas.ch]()
 
 ## Education
