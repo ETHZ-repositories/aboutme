@@ -33,15 +33,21 @@ email: [surya.gupta@unibas.ch]()
 
 [ETH Zurich](https://ethz.ch/en.html)  | Zurich, Switzerland
 
-Ph.D. in Environmental Sciences | November 2018 -July 2021
+Ph.D. in Environmental Sciences | 1 November 2018 -27 July 2021
+
+**Thesis Title**: Novel Approaches to georeferenced global mapping of soil hydraulic properties
 
 [Indian Institute of Remote sensing (IIRS)](https://www.isro.gov.in/about-isro/indian-institute-of-remote-sensing-iirs) | Dehradun, India
 
 M.tech in Remote sensing and GIS | August 2013 - August 2015
 
+**Thesis Title**: Simulating climate change impact on soil erosion and soil carbon sequestration
+
 [Punjab Agricultural University](https://www.pau.edu/) | Ludhiana, India
 
 B.tech in Agricultural Engineering | July 2009 - June 2013
+
+**Thesis Title**: Multiple well point system (skimming well) for irrigation and drainage in south western Punjab.
 
 ## Experience
 
