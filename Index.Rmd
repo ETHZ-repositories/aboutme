@@ -55,7 +55,7 @@ B.tech in Agricultural Engineering | July 2009 - June 2013
 
 ## Publications
 
-Kukal, M., Irmak, S., Dobos, R., **Gupta, S.**: Atmospheric Dryness Impacts on Crop Yields are Buffered in Soils with Higher Available Water Capacity. **Geoderma**, 429, 116270, [2023](https://www.sciencedirect.com/science/article/pii/S0016706122005778#f0005)
+**Refereed papers as leading author (10)**
 
 **Gupta, S. **, Lehmann, P., Bickel, S., Bonetti, S., and Or, D.: Global maps of potential and climatic plant-available soil water. Manuscript **submitted**, **Journal of Advances in Modeling Earth Systems**, 2022, [Dataset](https://zenodo.org/record/6777126#.YrwahXZBxPY)
 
@@ -65,29 +65,33 @@ Kukal, M., Irmak, S., Dobos, R., **Gupta, S.**: Atmospheric Dryness Impacts on C
 
 **Gupta, S. **, Bonetti, S., Lehmann, P., and Or, D.: Limited role of soil texture in mediating natural vegetation response to rainfall anomalies. **Environmental Research Letters**, [2022](https://iopscience.iop.org/article/10.1088/1748-9326/ac5206)
 
-Li,L., Dai, Y., Shangguan, W., Wei, N., Wei, Z., **Gupta, S.**: Multistep forecasting of soil moisture using a spatiotemporal deep encoder-decoder networks. **Journal of Hydrometeorology**, [2022](https://journals.ametsoc.org/view/journals/hydr/aop/JHM-D-21-0131.1/JHM-D-21-0131.1.xml)
-
-Adla, S., **Gupta, S. **, Karumanchi S.H., Tripathi, S., Disse,M., Pande,S.: Agricultural advisory diagnostics using a community driven data-based approach: test case in an intensively managed rural landscape in the Ganga River Basin, India. **Frontiers in Water (Water and Human Systems)**, [2022](https://www.frontiersin.org/articles/10.3389/frwa.2021.798241/abstract)
-
-
-Lehmann, P., Leshchinsky, B., **Gupta, S.**, Mirus, B., Bickel, S., Lu, N., and Or, D.: Clays are not created equal: how clay mineral type affects soil parameterization. **Geophysical Research Letters** (GRL), [2021](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2021GL095311)    
-
 **Gupta, S. **, Lehmann, P., Bonetti, S., Papritz, A. and Or, D.: Global prediction of soil saturated hydraulic conductivity using random forest in a Covariate-based GeoTransfer Function (CoGTF) framework. **Journal of Advances in Modeling Earth Systems**, 13, e2020MS002242, [2021](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2020MS002242) [Dataset](https://zenodo.org/record/3935359#.X-dWZthKhPY)
 
 **Gupta, S.**, Hengl, T., Lehmann, P., Bonetti, S., and Or, D.: SoilKsatDB: global database of soil saturated hydraulic conductivity measurements for geoscience applications. **Earth System Science Data**, 13(4), 1593-1612, [2021](https://essd.copernicus.org/articles/13/1593/2021/) [Dataset](https://doi.org/10.5281/zenodo.3752721)
 
-
 **Gupta S.**, K. S. Harsha., S.K. Dash, S. Adla., S. Tripathi, R. Sinha, D. Paul and I. S. Sen.: Setting up a CZO in the Heterogeneous Ecosystem of an Agro Rural Terrain (HEART) of the Ganga Basin. **EOS**, 100, [2019](https://eos.org/science-updates/monitoring-ecosystem-health-in-indias-food-basket)
-
-Sinha, R., **Gupta, S.** and Nepal, S.: Groundwater dynamics in North Bihar plains. **Current Science**, 114(12), 2482-2493, [2018](https://lib.icimod.org/record/33891)
 
 **Gupta, S.** and Kumar, S.: Simulating climate change impact on soil erosion using RUSLE model, A case study in a watershed of mid-Himalayan landscape. **Journal of Earth System Science**, 126(4), 43, [2017](https://link.springer.com/article/10.1007/s12040-017-0823-1)
 
 **Gupta, S.** and Kumar, S.: Simulating climate change Impact on soil carbon sequestration in agro-ecosystem of Mid Himalayan landscape using CENTURY Model. **Environ Earth Sci.** 76: 394, [2017](https://link.springer.com/article/10.1007/s12665-017-6720-8)
 
+**Gupta, S.** and Singh, J.P.: Multiple well point system for irrigation and drainage in south western Punjab, **Journal of Research**, 51:175-180, [2014](https://www.indianjournals.com/ijor.aspx?target=ijor:jre&volume=51&issue=2&article=018)
+
+
+**Refereed papers as co-author (6)**
+
+Kukal, M., Irmak, S., Dobos, R., **Gupta, S.**: Atmospheric Dryness Impacts on Crop Yields are Buffered in Soils with Higher Available Water Capacity. **Geoderma**, 429, 116270, [2023](https://www.sciencedirect.com/science/article/pii/S0016706122005778#f0005)
+
+Li,L., Dai, Y., Shangguan, W., Wei, N., Wei, Z., **Gupta, S.**: Multistep forecasting of soil moisture using a spatiotemporal deep encoder-decoder networks. **Journal of Hydrometeorology**, [2022](https://journals.ametsoc.org/view/journals/hydr/aop/JHM-D-21-0131.1/JHM-D-21-0131.1.xml)
+
+Adla, S., **Gupta, S. **, Karumanchi S.H., Tripathi, S., Disse,M., Pande,S.: Agricultural advisory diagnostics using a community driven data-based approach: test case in an intensively managed rural landscape in the Ganga River Basin, India. **Frontiers in Water (Water and Human Systems)**, [2022](https://www.frontiersin.org/articles/10.3389/frwa.2021.798241/abstract)
+
+Lehmann, P., Leshchinsky, B., **Gupta, S.**, Mirus, B., Bickel, S., Lu, N., and Or, D.: Clays are not created equal: how clay mineral type affects soil parameterization. **Geophysical Research Letters** (GRL), [2021](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2021GL095311)    
+
+Sinha, R., **Gupta, S.** and Nepal, S.: Groundwater dynamics in North Bihar plains. **Current Science**, 114(12), 2482-2493, [2018](https://lib.icimod.org/record/33891)
+
 Kumar, S., and **Gupta, S.**: Geospatial approach in mapping soil erodibility using CartoDEM, A case study in hilly watershed of Lower Himalayan Range. **Journal of Earth System Science**, 125(7), 1463-1472, [2016](https://link.springer.com/article/10.1007/s12040-016-0738-2)
 
-**Gupta, S.** and Singh, J.P.: Multiple well point system for irrigation and drainage in south western Punjab, **Journal of Research**, 51:175-180, [2014](https://www.indianjournals.com/ijor.aspx?target=ijor:jre&volume=51&issue=2&article=018)
 
 ## Publications (Book Chapter)
 
@@ -95,7 +99,9 @@ Sinha, R., Kumar, G., Mishra,K and **Gupta, S.**: The Kosi megafan: Morphology, 
 
 ## Conferences Abstracts 
 
-Lehmann, P., **Gupta, S.**, Or, D., and Carminati, A.: Estimating global scale evapotranspiration using soil-based evaporation characteristic length and root zone depth distribution (No. EGU22-4269). Copernicus Meetings, 2022.
+**Gupta, S.**, Alewell, C.: Mapping soil properties at high spatial resolution using remote sensing datasets and machine learning approaches. Swiss Geoscience Meeting, [2022](https://geoscience-meeting.ch/sgm2022/wp-content/uploads/abstract_books/SGM_2022_Symposium_19.pdf).
+
+Lehmann, P., **Gupta, S.**, Or, D., and Carminati, A.: Estimating global scale evapotranspiration using soil-based evaporation characteristic length and root zone depth distribution (No. EGU22-4269). Copernicus Meetings, [2022](https://ui.adsabs.harvard.edu/abs/2022EGUGA..24.4269L/abstract).
 
 **Gupta, S.**, Lehmann, P., Papritz, A., Hengl, T., Bonetti, S., and Or, D.: Global Mapping of Soil Saturated Hydraulic Conductivity Combining Legacy Data, Spatial Covariates and Machine Learning. Geological Coffee, a geoscientific dissemination project of the Geological Survey of Brazil, August 3rd, 2021.
 
