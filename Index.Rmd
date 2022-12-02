@@ -33,7 +33,7 @@ email: [surya.gupta@unibas.ch]()
 
 [ETH Zurich](https://ethz.ch/en.html)  | Zurich, Switzerland
 
-Ph.D. in Environmental Sciences | 1 November 2018 -27 July 2021
+Ph.D. in Environmental Sciences | 1 November 2018 - 27 July 2021
 
 **Thesis Title**: Novel Approaches to georeferenced global mapping of soil hydraulic properties
 
