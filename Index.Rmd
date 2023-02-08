@@ -71,9 +71,9 @@ B.tech in Agricultural Engineering | July 2009 - June 2013
 
 **Gupta, S. **, Bonetti, S., Lehmann, P., and Or, D.: Limited role of soil texture in mediating natural vegetation response to rainfall anomalies. **Environmental Research Letters**, [2022](https://iopscience.iop.org/article/10.1088/1748-9326/ac5206)
 
-**Gupta, S. **, Lehmann, P., Bonetti, S., Papritz, A. and Or, D.: Global prediction of soil saturated hydraulic conductivity using random forest in a Covariate-based GeoTransfer Function (CoGTF) framework. **Journal of Advances in Modeling Earth Systems**, 13, e2020MS002242, [2021](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2020MS002242) [Dataset](https://zenodo.org/record/3935359#.X-dWZthKhPY)
+**Gupta, S. **, Lehmann, P., Bonetti, S., Papritz, A. and Or, D.: Global prediction of soil saturated hydraulic conductivity using random forest in a Covariate-based GeoTransfer Function (CoGTF) framework. **Journal of Advances in Modeling Earth Systems**, 13, e2020MS002242, [2021](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2020MS002242), [Dataset](https://zenodo.org/record/3935359#.X-dWZthKhPY)
 
-**Gupta, S.**, Hengl, T., Lehmann, P., Bonetti, S., and Or, D.: SoilKsatDB: global database of soil saturated hydraulic conductivity measurements for geoscience applications. **Earth System Science Data**, 13(4), 1593-1612, [2021](https://essd.copernicus.org/articles/13/1593/2021/) [Dataset](https://doi.org/10.5281/zenodo.3752721)
+**Gupta, S.**, Hengl, T., Lehmann, P., Bonetti, S., and Or, D.: SoilKsatDB: global database of soil saturated hydraulic conductivity measurements for geoscience applications. **Earth System Science Data**, 13(4), 1593-1612, [2021](https://essd.copernicus.org/articles/13/1593/2021/), [Dataset](https://doi.org/10.5281/zenodo.3752721)
 
 **Gupta S.**, K. S. Harsha., S.K. Dash, S. Adla., S. Tripathi, R. Sinha, D. Paul and I. S. Sen.: Setting up a CZO in the Heterogeneous Ecosystem of an Agro Rural Terrain (HEART) of the Ganga Basin. **EOS**, 100, [2019](https://eos.org/science-updates/monitoring-ecosystem-health-in-indias-food-basket)
 
@@ -104,6 +104,8 @@ Kumar, S., and **Gupta, S.**: Geospatial approach in mapping soil erodibility us
 Sinha, R., Kumar, G., Mishra,K and **Gupta, S.**: The Kosi megafan: Morphology, dynamics and sedimentology. Book Chapter, Fluvial Megafans on Earth and Mars, Cambridge University Press, [2023](https://www.nhbs.com/fluvial-megafans-on-earth-and-mars-book)
 
 ## Conferences Abstracts 
+
+**Gupta, S.**, Borrelli, P., Panagos, P., and Alewell, C.: Modified global soil risk map using soil erosion and saturated hydraulic conductivity maps. Copernicus Meetings, 2023.
 
 **Gupta, S.**, Alewell, C.: Mapping soil properties at high spatial resolution using remote sensing datasets and machine learning approaches. Swiss Geoscience Meeting, [2022](https://geoscience-meeting.ch/sgm2022/wp-content/uploads/abstract_books/SGM_2022_Symposium_19.pdf).
 
