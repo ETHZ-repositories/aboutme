@@ -103,7 +103,7 @@ Kumar, S., and **Gupta, S.**: Geospatial approach in mapping soil erodibility us
 
 Sinha, R., Kumar, G., Mishra,K and **Gupta, S.**: The Kosi megafan: Morphology, dynamics and sedimentology. Book Chapter, Fluvial Megafans on Earth and Mars, Cambridge University Press, [2023](https://www.nhbs.com/fluvial-megafans-on-earth-and-mars-book)
 
-## Conferences Abstracts 
+## Conferences Abstracts (18)
 
 **Gupta, S.**, Borrelli, P., Panagos, P., and Alewell, C.: Modified global soil risk map using soil erosion and saturated hydraulic conductivity maps. Copernicus Meetings, 2023.
 
