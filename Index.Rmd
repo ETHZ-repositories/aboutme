@@ -61,7 +61,9 @@ B.tech in Agricultural Engineering | July 2009 - June 2013
 
 ## Publications
 
-**Refereed papers as leading author (10)**
+**Refereed papers as leading author (11)**
+
+**Gupta, S. **, Alewell, C.: Mapping soil properties of Switzerland using remote sensing datasets and machine learning approach. Manuscript **submitted**, **Environmental Modelling and Software**, 2023
 
 **Gupta, S. **, Lehmann, P., Bickel, S., Bonetti, S., and Or, D.: Global maps of potential and climatic plant-available soil water. Manuscript **submitted**, **Journal of Advances in Modeling Earth Systems**, 2023, [Dataset](https://zenodo.org/record/6777126#.YrwahXZBxPY)
 
