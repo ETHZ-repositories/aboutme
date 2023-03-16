@@ -88,7 +88,7 @@ B.tech in Agricultural Engineering | July 2009 - June 2013
 
 **Refereed papers as co-author (7)**
 
-Bouasria, A., Bouslihim, Y., **Gupta, S.**, Taghizadeh-Mehrjardi, R., Hengl, T.: Testing predictive performance of Machine Learning models under varying sampling design, extent, and training data size: size makes difference, sampling algorithm less. Manuscript **submitted**, **Science of the Total Environment**, 2023
+Bouasria, A., Bouslihim, Y., **Gupta, S.**, Taghizadeh-Mehrjardi, R., Hengl, T.: Testing predictive performance of Machine Learning models under varying sampling design, extent, and training data size: size makes difference, sampling algorithm less. Manuscript **submitted**, **Ecological Informatics**, 2023
 
 Kukal, M., Irmak, S., Dobos, R., **Gupta, S.**: Atmospheric Dryness Impacts on Crop Yields are Buffered in Soils with Higher Available Water Capacity. **Geoderma**, 429, 116270, [2023](https://www.sciencedirect.com/science/article/pii/S0016706122005778#f0005)
 
