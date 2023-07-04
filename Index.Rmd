@@ -63,7 +63,7 @@ B.tech in Agricultural Engineering | July 2009 - June 2013
 
 **Refereed papers as leading author (11)**
 
-**Gupta, S. **, Alewell, C.: Mapping soil properties of Switzerland using remote sensing datasets and machine learning approach. Manuscript **submitted**, **International Soil and Water Conservation Research**, 2023, [Dataset](https://zenodo.org/record/7821650#.ZDkPT3ZBxOQ) 
+**Gupta, S. **, Borrelli, P., Panagos, P., Alewell, C.: An Advanced Global Soil Erodibility Assessment Including the Effects of Saturated Hydraulic Conductivity. Manuscript **submitted**, **Science of the Total Environment**, 2023.
 
 **Gupta, S. **, Lehmann, P., Bickel, S., Bonetti, S., and Or, D.: Global maps of potential and climatic plant-available soil water. Manuscript **submitted**, **Journal of Advances in Modeling Earth Systems**, 2023, [Dataset](https://zenodo.org/record/6777126#.YrwahXZBxPY)
 
