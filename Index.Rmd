@@ -61,9 +61,11 @@ B.tech in Agricultural Engineering | July 2009 - June 2013
 
 ## Publications
 
-**Refereed papers as leading author (11)**
+**Refereed papers as leading author (12)**
 
 **Gupta, S. **, Borrelli, P., Panagos, P., Alewell, C.: An Advanced Global Soil Erodibility Assessment Including the Effects of Saturated Hydraulic Conductivity. Manuscript **submitted**, **Science of the Total Environment**, 2023.
+
+**Gupta, S. **, Hasler, J.K., Alewell, C.: Mapping soil properties of Switzerland using remote sensing datasets and machine learning approach. Manuscript **submitted**, **Geoderma Regional**, 2023, [Dataset](https://zenodo.org/record/7821650)
 
 **Gupta, S. **, Lehmann, P., Bickel, S., Bonetti, S., and Or, D.: Global maps of potential and climatic plant-available soil water. Manuscript **submitted**, **Journal of Advances in Modeling Earth Systems**, 2023, [Dataset](https://zenodo.org/record/6777126#.YrwahXZBxPY)
 
@@ -86,12 +88,16 @@ B.tech in Agricultural Engineering | July 2009 - June 2013
 **Gupta, S.** and Singh, J.P.: Multiple well point system for irrigation and drainage in south western Punjab, **Journal of Research**, 51:175-180, [2014](https://www.indianjournals.com/ijor.aspx?target=ijor:jre&volume=51&issue=2&article=018)
 
 
-**Refereed papers as co-author (8)**
+**Refereed papers as co-author (9)**
 
 Bouasria, A., Bouslihim, Y., **Gupta, S.**, Taghizadeh-Mehrjardi, R., Hengl, T.: Testing predictive performance of Machine Learning models under varying sampling design, extent, and training data size: size makes difference, sampling algorithm less. Manuscript **submitted**, **Ecological Informatics**, 2023
 
+Tobias Karl David Weber, Lutz Weihermüller, Attila Nemes, Michel Bechtold, Aurore Degré, Efstathios Diamantopoulos, Fatichi,S., Filipović,V., **Gupta, S.**,.......Yonggen Zhang, and Sara Bonetti.: Hydro-pedotransfer functions: A roadmap for future development.Manuscript **submitted**, **Hydrology and Earth System Sciences**, 2023
+
+
 Borrelli, P., Alewell, C.,.......... **Gupta, S.**, Matthews, F.,............. Panagos, P.: Towards a better understanding of pathways of multiple concurrent erosion processes
 on global cropland. Manuscript **accepted**, **International Soil and Water Conservation Research**, [2023](https://www.sciencedirect.com/science/article/pii/S209563392300062X)
+
 
 Kukal, M., Irmak, S., Dobos, R., **Gupta, S.**: Atmospheric Dryness Impacts on Crop Yields are Buffered in Soils with Higher Available Water Capacity. **Geoderma**, 429, 116270, [2023](https://www.sciencedirect.com/science/article/pii/S0016706122005778#f0005)
 
