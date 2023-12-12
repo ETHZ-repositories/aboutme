@@ -67,7 +67,7 @@ B.tech in Agricultural Engineering | July 2009 - June 2013
 
 **Gupta, S. **, Lehmann, P., Bickel, S., Bonetti, S., and Or, D.: Global maps of potential and climatic plant-available soil water. **Journal of Advances in Modeling Earth Systems**,15(11), e2022MS003277, [2023](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2022MS003277), [Dataset](https://zenodo.org/record/6777126#.YrwahXZBxPY)
 
-**Gupta, S. **, Borrelli, P., Panagos, P., Alewell, C.: An Advanced Global Soil Erodibility Assessment Including the Effects of Saturated Hydraulic Conductivity. **Science of the Total Environment**, 908, 168249, [2023](https://www.sciencedirect.com/science/article/pii/S0048969723068766)
+**Gupta, S. **, Borrelli, P., Panagos, P., Alewell, C.: An Advanced Global Soil Erodibility Assessment Including the Effects of Saturated Hydraulic Conductivity. **Science of the Total Environment**, 908, 168249, [2023](https://www.sciencedirect.com/science/article/pii/S0048969723068766), [Dataset](https://esdac.jrc.ec.europa.eu/content/global-soil-erodibility#tabs-0-description=0&tabs-0-description-2=)
 
 **Gupta, S. **, Papritz, A., Lehmann, P., Hengl, T., Bonetti, S., and Or, D.: Global Soil Hydraulic Properties dataset based on legacy site observations and robust parameterization. **Scientific Data**, 9, 444, [2022](https://www.nature.com/articles/s41597-022-01481-5), [Dataset](https://zenodo.org/record/6640246#.Yt_3eHZBxPY) 
 
