@@ -63,7 +63,7 @@ B.tech in Agricultural Engineering | July 2009 - June 2013
 
 **Refereed papers as leading author (12)**
 
-**Gupta, S. **, Hasler, J.K., Alewell, C: Mapping soil properties of Switzerland using remote sensing datasets and machine learning approach. Manuscript **submitted**, **Geoderma Regional**, 2023, [Dataset](https://zenodo.org/record/7821650)
+**Gupta, S. **, Hasler, J.K., Alewell, C: Mapping soil properties of Switzerland using remote sensing datasets and machine learning approach.**Geoderma Regional**, e00747, [2023](https://www.sciencedirect.com/science/article/pii/S2352009423001438), [Dataset](https://zenodo.org/record/7821650)
 
 **Gupta, S. **, Lehmann, P., Bickel, S., Bonetti, S., and Or, D.: Global maps of potential and climatic plant-available soil water. **Journal of Advances in Modeling Earth Systems**,15(11), e2022MS003277, [2023](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2022MS003277), [Dataset](https://zenodo.org/record/6777126#.YrwahXZBxPY)
 
