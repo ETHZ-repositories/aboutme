@@ -118,7 +118,9 @@ Kumar, S., and **Gupta, S.**: Geospatial approach in mapping soil erodibility us
 
 Sinha, R., Kumar, G., Mishra,K and **Gupta, S.**: The Kosi megafan: Morphology, dynamics and sedimentology. Book Chapter, Fluvial Megafans on Earth and Mars, Cambridge University Press, [2023](https://www.cambridge.org/core/books/fluvial-megafans-on-earth-and-mars/kosi-megafan-india/D4E23FAE4D735C6E5B94BB8C7D25B90A)
 
-## Conferences Abstracts (19)
+## Conferences Abstracts (20)
+
+Alewell, C., **Gupta, S.**, Gross-Schmölders, M., Niquille, N., Robinson, D., Borrelli, P., Schad, P., Kabala, C., and Panagos, P.: Introducing a new soil health key - SHERPA: Soil Health Evaluation, Rating Protocol and Assessment, [2024](https://services.aimgroup.eu/ASPClient/prgsci/default.asp?EventoID=5092).
 
 **Gupta, S.**, Borrelli, P., Panagos, P., and Alewell, C.: Modified global soil erodibility map considering saturated hydraulic conductivity. European Healthy Soils, [2023](https://www.efbiotechnology.org/healthysoils/prg_item).
 
