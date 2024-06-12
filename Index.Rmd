@@ -94,7 +94,7 @@ B.tech in Agricultural Engineering | July 2009 - June 2013
 **Refereed papers as co-author (9)**
 
 
-Tobias Karl David Weber, Lutz Weihermüller, Attila Nemes, Michel Bechtold, Aurore Degré, Efstathios Diamantopoulos, Fatichi,S., Filipović,V., **Gupta, S.**,…….Yonggen Zhang, and Sara Bonetti.: Hydro-pedotransfer functions: A roadmap for future development.Manuscript **submitted**, **Hydrology and Earth System Sciences**, [2024](https://egusphere.copernicus.org/preprints/2023/egusphere-2023-1860/).
+Tobias Karl David Weber, Lutz Weihermüller, Attila Nemes, Michel Bechtold, Aurore Degré, Efstathios Diamantopoulos, Fatichi,S., Filipović,V., **Gupta, S.**,…….Yonggen Zhang, and Sara Bonetti.: Hydro-pedotransfer functions: A roadmap for future development.Manuscript **accepted**, **Hydrology and Earth System Sciences**, [2024](https://egusphere.copernicus.org/preprints/2023/egusphere-2023-1860/).
 
 Bouasria, A., Bouslihim, Y., **Gupta, S.**, Taghizadeh-Mehrjardi, R., Hengl, T.: Testing predictive performance of Machine Learning models under varying sampling design, extent, and training data size: size makes difference, sampling algorithm less. **Ecological Informatics**, 102294, [2023](https://www.sciencedirect.com/science/article/pii/S1574954123003230?casa_token=jjiYylwOU0YAAAAA:VKXNsNx_PuYkHwFOZQsVjuKoD2Uo6hnV5Jdgqxx2g3w2p6cs9Zg7RdsBSiAV1q6BfCLbDrjQm_Y)
 
