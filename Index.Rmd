@@ -63,7 +63,7 @@ B.tech in Agricultural Engineering | July 2009 - June 2013
 
 **Refereed papers as leading author (13)**
 
-**Gupta, S. **, Zweifel, L., Birkholz, A., Meusburger, K., Leitinger, G., Alewell, C: Mapping Snow Gliding Distances: Bridging Modelled and Field Observations. Manuscript **submitted**, **Cold Regions Science and Technology**, 2024
+**Gupta, S. **, Zweifel, L., Birkholz, A., Meusburger, K., Leitinger, G., Alewell, C: Mapping Snow Gliding Distances: Bridging Modelled and Field Observations. **Cold Regions Science and Technology**, 104402, [2024](https://www.sciencedirect.com/science/article/pii/S0165232X24002830)
 
 **Gupta, S. **, Hasler, J.K., Alewell, C: Mining soil data of Switzerland: New maps for soil texture, soil organic carbon, nitrogen, and phosphorus. **Geoderma Regional**, e00747, [2024](https://www.sciencedirect.com/science/article/pii/S2352009423001438), [Dataset](https://zenodo.org/record/7821650)
 
