@@ -63,7 +63,7 @@ B.tech in Agricultural Engineering | July 2009 - June 2013
 
 **Refereed papers as leading author (13)**
 
-**Gupta, S. **, Zweifel, L., Birkholz, A., Meusburger, K., Leitinger, G., Alewell, C: Mapping Snow Gliding Distances: Bridging Modelled and Field Observations. **Cold Regions Science and Technology**, 104402, [2024](https://www.sciencedirect.com/science/article/pii/S0165232X24002830)
+**Gupta, S. **, Zweifel, L., Birkholz, A., Meusburger, K., Leitinger, G., Alewell, C: Mapping Snow Gliding Distances: Bridging Modelled and Field Observations. **Cold Regions Science and Technology**, 104402, [2025](https://www.sciencedirect.com/science/article/pii/S0165232X24002830)
 
 **Gupta, S. **, Hasler, J.K., Alewell, C: Mining soil data of Switzerland: New maps for soil texture, soil organic carbon, nitrogen, and phosphorus. **Geoderma Regional**, e00747, [2024](https://www.sciencedirect.com/science/article/pii/S2352009423001438), [Dataset](https://zenodo.org/record/7821650)
 
@@ -91,9 +91,11 @@ B.tech in Agricultural Engineering | July 2009 - June 2013
 **Gupta, S.** and Singh, J.P.: Multiple well point system for irrigation and drainage in south western Punjab, **Journal of Research**, 51:175-180, [2014](https://www.indianjournals.com/ijor.aspx?target=ijor:jre&volume=51&issue=2&article=018)
 
 
-**Refereed papers as co-author (10)**
+**Refereed papers as co-author (11)**
 
-Dicen, G., Guillevic, F., **Gupta, S.**, Chaboche, P.-A., Meusburger, K., Sabatier, P., Evrard, O., and Alewell, C.: Distribution and sources of fallout 137Cs and 239+240Pu in Equatorial and Southern Hemisphere reference soils, **Earth Syst. Sci. Data Discuss.** [preprint](https://doi.org/10.5194/essd-2024-509), in review, 2024.
+Cox, T., **Gupta, S.**, Birkholz, A., and Alewell, C.: Using iso-scapes to address within-source variability in compound specific stable isotope sediment source apportionments, **Journal of Soils and Sediments**, in review, 2025.
+
+Dicen, G., Guillevic, F., **Gupta, S.**, Chaboche, P.-A., Meusburger, K., Sabatier, P., Evrard, O., and Alewell, C.: Distribution and sources of fallout 137Cs and 239+240Pu in Equatorial and Southern Hemisphere reference soils, **Earth Syst. Sci. Data Discuss.** [preprint](https://doi.org/10.5194/essd-2024-509), in review, 2025.
 
 Tobias Karl David Weber, Lutz Weihermüller, Attila Nemes, Michel Bechtold, Aurore Degré, Efstathios Diamantopoulos, Fatichi,S., Filipović,V., **Gupta, S.**,…….Yonggen Zhang, and Sara Bonetti.: Hydro-pedotransfer functions: A roadmap for future development. **Hydrology and Earth System Sciences**, 28(14), 3391-3433, [2024](https://hess.copernicus.org/articles/28/3391/2024/)
 
