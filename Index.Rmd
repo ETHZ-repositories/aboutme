@@ -64,7 +64,7 @@ B.tech in Agricultural Engineering | July 2009 - June 2013
 **Refereed papers as leading author (14)**
 
 Alewell, C., **Gupta, S. **, Poulenard, J., Niquille, N., Kaiser, A., Shokri, N., Scheper, S., Gross-Schmölders, M., Robinson, D., Campbell, G.,  Kabala, C.,  Lang, F., Dise, N., Panagos, P.,
- Borrelli, P.: Assessing soil health quantitatively at European scale considering soil genesis, **Nat. Communications**, in review, 2025.
+ Borrelli, P.: Assessing soil health quantitatively at European scale considering soil genesis, **Nat. Communications**, in review, 2025
 
 **Gupta, S. **, Zweifel, L., Birkholz, A., Meusburger, K., Leitinger, G., Alewell, C: Mapping Snow Gliding Distances: Bridging Modelled and Field Observations. **Cold Regions Science and Technology**, 104402, [2025](https://www.sciencedirect.com/science/article/pii/S0165232X24002830)
 
@@ -96,12 +96,12 @@ Alewell, C., **Gupta, S. **, Poulenard, J., Niquille, N., Kaiser, A., Shokri, N.
 
 **Refereed papers as co-author (12)**
 
-Shokri, N., Robinson, D., Afshar, M., Alewell, C.,........ **Gupta, S.**,...........Or, D.: Rethinking Global Soil Degradation: Drivers, Impacts, and Solutions, **Reviews of Geophysics**, in review, 2025. 
+Shokri, N., Robinson, D., Afshar, M., Alewell, C.,........ **Gupta, S.**,...........Or, D.: Rethinking Global Soil Degradation: Drivers, Impacts, and Solutions, **Reviews of Geophysics**, in review, 2025
 
 
-Cox, T., **Gupta, S.**, Birkholz, A., and Alewell, C.: Using iso-scapes to address within-source variability in compound specific stable isotope sediment source apportionments, **Journal of Soils and Sediments**, in review, 2025.
+Cox, T., **Gupta, S.**, Birkholz, A., and Alewell, C.: Using iso-scapes to address within-source variability in compound specific stable isotope sediment source apportionments, **Journal of Soils and Sediments**, in review, 2025
 
-Dicen, G., Guillevic, F., **Gupta, S.**, Chaboche, P.-A., Meusburger, K., Sabatier, P., Evrard, O., and Alewell, C.: Distribution and sources of fallout 137Cs and 239+240Pu in Equatorial and Southern Hemisphere reference soils, **Earth Syst. Sci. Data Discuss.**, **accepted**, [2025](https://essd.copernicus.org/preprints/essd-2024-509/), [Dataset](https://zenodo.org/records/14008221)
+Dicen, G., Guillevic, F., **Gupta, S.**, Chaboche, P.-A., Meusburger, K., Sabatier, P., Evrard, O., and Alewell, C.: Distribution and sources of fallout 137Cs and 239+240Pu in Equatorial and Southern Hemisphere reference soils, **Earth Syst. Sci. Data Discuss.**, 17, 1529–1549, [2025](https://essd.copernicus.org/articles/17/1529/2025/), [Dataset](https://zenodo.org/records/14008221)
 
 Tobias Karl David Weber, Lutz Weihermüller, Attila Nemes, Michel Bechtold, Aurore Degré, Efstathios Diamantopoulos, Fatichi,S., Filipović,V., **Gupta, S.**,…….Yonggen Zhang, and Sara Bonetti.: Hydro-pedotransfer functions: A roadmap for future development. **Hydrology and Earth System Sciences**, 28(14), 3391-3433, [2024](https://hess.copernicus.org/articles/28/3391/2024/)
 
