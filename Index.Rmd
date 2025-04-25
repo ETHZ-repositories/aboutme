@@ -69,6 +69,8 @@ B.tech in Agricultural Engineering | July 2009 - June 2013
 
 3. Cox, T., **Gupta, S.**, Birkholz, A., and Alewell, C.: *Using iso-scapes to address within-source variability in compound specific stable isotope sediment source apportionments*, **Journal of Soils and Sediments**, in review, 2025.
 
+4. **Gupta, S.**, Alewell, C.: *Spatial prediction of soil bulk density in Switzerland*, **Journal of Maps**, in review, 2025.
+
 **Published articles (23)**
 
 1. **Gupta, S.**, Zweifel, L., Birkholz, A., Meusburger, K., Leitinger, G., Alewell, C.: *Mapping Snow Gliding Distances: Bridging Modelled and Field Observations*. **Cold Regions Science and Technology**, 104402, [2025](https://www.sciencedirect.com/science/article/pii/S0165232X24002830)
