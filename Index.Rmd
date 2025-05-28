@@ -63,13 +63,15 @@ B.tech in Agricultural Engineering | July 2009 - June 2013
 
 **Articles in review**
 
-1. Alewell, C., **Gupta, S.**, Poulenard, J., Niquille, N., Kaiser, A., Shokri, N., Scheper, S., Gross-Schmölders, M., Robinson, D., Campbell, G., Kabala, C., Lang, F., Dise, N., Panagos, P., Borrelli, P.: *A first quantitative assessment of soil health at European scale considering soil genesis*, **Journal of Plant Nutrition and Soil Science**, in review, [2025](https://www.researchsquare.com/article/rs-6470019/v1)
+1. Alewell, C., **Gupta, S.**, Poulenard, J., Niquille, N., Kaiser, A., Shokri, N., Scheper, S., Gross-Schmölders, M., Robinson, D., Campbell, G., Kabala, C., Lang, F., Dise, N., Panagos, P., Borrelli, P.: *Assessing soil health quantitatively at European scale considering soil genesis*, **Nature Communications**, in review, 2025
 
 2. Shokri, N., Robinson, D., Afshar, M., Alewell, C., ... **Gupta, S.**, ... Or, D.: *Rethinking Global Soil Degradation: Drivers, Impacts, and Solutions*, **Reviews of Geophysics**, in review, 2025
 
 3. Cox, T., **Gupta, S.**, Birkholz, A., and Alewell, C.: *Using iso-scapes to address within-source variability in compound specific stable isotope sediment source apportionments*, **Journal of Soils and Sediments**, in review, 2025
 
-4. **Gupta, S.**, Alewell, C.: *Spatial prediction of soil bulk density in Switzerland*, **Journal of Maps**, in review, 2025, [Dataset](https://doi.org/10.5281/zenodo.15274427)
+4. **Gupta, S.**, Scheper, S., Alewell, C.: *Spatial prediction of soil bulk density in Switzerland*, **Ecological Modelling**, in review, 2025, [Dataset](https://doi.org/10.5281/zenodo.15274427)
+
+5. **Gupta, S.**, Scheper, S., Borrelli, P., Panagos, P., Alewell, C.: *Soil erosion as a driver of eutrophication: an analysis of European lakes using Sentinel-2 satellite data*. **Climate Change Biology**, in review, 2025
 
 **Published articles (23)**
 
