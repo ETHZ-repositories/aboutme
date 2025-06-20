@@ -66,7 +66,7 @@ B.tech in Agricultural Engineering | July 2009 - June 2013
 1. **Gupta, S.**, Scheper, S., Borrelli, P., Panagos, P., Alewell, C.: *Soil erosion as a driver of eutrophication: an analysis of European lakes using Sentinel-2 satellite data*. **Climate Change Biology**, in review, 2025
 
 2. **Gupta, S.**, Scheper, S., Alewell, C.: *Mapping Swiss Soil Bulk Density at 30 m Resolution: Insights from Machine
-Learning, Environmental Covariates, and National Data*, **Annals of GIS**, in review, 2025, [Dataset](https://doi.org/10.5281/zenodo.15274427)
+Learning, Environmental Covariates, and National Data*, **International Journal of Applied Earth Observation and Geoinformation**, in review, 2025, [Dataset](https://doi.org/10.5281/zenodo.15274427)
 
 3. Alewell, C., **Gupta, S.**, Poulenard, J., Niquille, N., Kaiser, A., Shokri, N., Scheper, S., Gross-Schmölders, M., Robinson, D., Campbell, G., Kabala, C., Lang, F., Dise, N., Panagos, P., Borrelli, P.: *Assessing soil health quantitatively at European scale considering soil genesis*, **Journal of Plant Nutrition and Soil Science**, in review, 2025
 
