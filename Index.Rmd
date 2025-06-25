@@ -72,7 +72,7 @@ Learning, Environmental Covariates, and National Data*, **International Journal 
 
 4. Shokri, N., Robinson, D., Afshar, M., Alewell, C., ... **Gupta, S.**, ... Or, D.: *Rethinking Global Soil Degradation: Drivers, Impacts, and Solutions*, **Reviews of Geophysics**, in review, 2025
 
-5. Hengl, T., Consoli, D., Tian, X., ... **Gupta, S.**, ... Harris, N.: *OpenLandMap-soildb: global soil information at 30~m spatial resolution for 2000--2022+ based on spatiotemporal Machine Learning and harmonized legacy soil samples and observations*, **Earth Syst. Sci. Data Discuss.**, in review, 2025
+5. Hengl, T., Consoli, D., Tian, X., ... **Gupta, S.**, ... Harris, N.: *OpenLandMap-soildb: global soil information at 30~m spatial resolution for 2000--2022+ based on spatiotemporal Machine Learning and harmonized legacy soil samples and observations*, **Earth Syst. Sci. Data Discuss.**, in review, [2025](https://essd.copernicus.org/preprints/essd-2025-336/), [Dataset](https://zenodo.org/records/15470432)
 
 
 **Published articles (24)**
