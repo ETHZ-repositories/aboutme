@@ -79,7 +79,7 @@ Learning, Environmental Covariates, and National Data*, **International Journal 
 
 1. **Gupta, S.**, Zweifel, L., Birkholz, A., Meusburger, K., Leitinger, G., Alewell, C.: *Mapping Snow Gliding Distances: Bridging Modelled and Field Observations*. **Cold Regions Science and Technology**, 104402, [2025](https://www.sciencedirect.com/science/article/pii/S0165232X24002830)
 
-2. Cox, T., **Gupta, S.**, Birkholz, A., and Alewell, C.: *Using iso-scapes to address within-source variability in compound specific stable isotope sediment source apportionments*, **Journal of Soils and Sediments**, **accepted**, 2025
+2. Cox, T., **Gupta, S.**, Birkholz, A., and Alewell, C.: *Using iso-scapes to address within-source variability in compound specific stable isotope sediment source apportionments*, **Journal of Soils and Sediments**, [2025](https://link.springer.com/article/10.1007/s11368-025-04069-9)
 
 3. Dicen, G., Guillevic, F., **Gupta, S.**, Chaboche, P.-A., Meusburger, K., Sabatier, P., Evrard, O., and Alewell, C.: *Distribution and sources of fallout 137Cs and 239+240Pu in Equatorial and Southern Hemisphere reference soils*, **Earth Syst. Sci. Data Discuss.**, 17, 1529–1549, [2025](https://essd.copernicus.org/articles/17/1529/2025/), [Dataset](https://zenodo.org/records/14008221)
 
