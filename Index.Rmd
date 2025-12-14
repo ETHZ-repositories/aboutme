@@ -72,9 +72,11 @@ B.tech in Agricultural Engineering | July 2009 - June 2013
 **Articles in review**
 
 1. **Gupta, S.**, Scheper, S., Alewell, C.: *Mapping Swiss Soil Bulk Density at 30 m Resolution: Insights from Machine
-Learning, Environmental Covariates, and National Data*, **International Journal of Applied Earth Observation and Geoinformation**, in review, 2025, [Dataset](https://doi.org/10.5281/zenodo.15274427)
+Learning, Environmental Covariates, and National Data*,  **International Journal of Applied Earth Observation and Geoinformation**, in review, 2025, [Dataset](https://doi.org/10.5281/zenodo.15274427)
 
 2. Hengl, T., Consoli, D., Tian, X., ... **Gupta, S.**, ... Harris, N.: *OpenLandMap-soildb: global soil information at 30~m spatial resolution for 2000--2022+ based on spatiotemporal Machine Learning and harmonized legacy soil samples and observations*, **Earth Syst. Sci. Data Discuss.**, in review, [2025](https://essd.copernicus.org/preprints/essd-2025-336/), [Dataset](https://zenodo.org/records/15470432)
+
+3. Groß-Schmölders, M., **Gupta, S.**, Grady, M., Wania, A., Bengtsson, F., Alewell, C. (2025). *Building a framework to differentiate between pristine and drained peatlands in Europe by comparing molecular and spectral data*, **Climate Change Biology**, in review, 2025
 
 
 **Published articles (27)**
