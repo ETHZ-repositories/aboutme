@@ -73,6 +73,8 @@ B.tech in Agricultural Engineering | July 2009 - June 2013
 
 1. Groß-Schmölders, M., **Gupta, S.**, Grady, M., Wania, A., Bengtsson, F., Alewell, C. (2025). *Building a framework to differentiate between pristine and drained peatlands in Europe by comparing molecular and spectral data*, **Climate Change Biology**, in review, 2025
 
+2. Verhoef, A., Zeng, Y., Agam, N., Best, M., Bonetti, S., Boussetta, S., Chaney, N., Cuntz, M., Edwards, J., **Gupta, S.**, Heitman, J., Huang, M., Jarvis, N., Jiang, S., Kandala, R., Kiałka, F., Lian, T., Mu, M., Nemes, A., Paulus, S. J., Raoult, N., Reddy, K. N., Romano, N., Sabot, M., Vanderborght, J., van der Ploeg, M., van Oevelen, P., Wang, Y., Wang, Y., Weber, T. K. D., Marthews, T., Weihermüller, L. (2026). *Rethinking Soils in Land Surface Models*, **Bulletin of the American Meteorological Society**, Meeting Summary.
+
 
 **Published articles (29)**
 
