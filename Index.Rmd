@@ -75,13 +75,15 @@ B.tech in Agricultural Engineering | July 2009 - June 2013
 
 2. Verhoef, A., Zeng, Y., Agam, N., Best, M., Bonetti, S., Boussetta, S., Chaney, N., Cuntz, M., Edwards, J., **Gupta, S.**, Heitman, J., Huang, M., Jarvis, N., Jiang, S., Kandala, R., Kiałka, F., Lian, T., Mu, M., Nemes, A., Paulus, S. J., Raoult, N., Reddy, K. N., Romano, N., Sabot, M., Vanderborght, J., van der Ploeg, M., van Oevelen, P., Wang, Y., Wang, Y., Weber, T. K. D., Marthews, T., Weihermüller, L. (2026). *Rethinking Soils in Land Surface Models*, **Bulletin of the American Meteorological Society**, Meeting Summary.
 
+3. Avcıoğlu, A., Dicen, G., **Gupta, S.**, Alewell, C.,.........Meusburger, K.: *Radioactive fallout legacy of nuclear tests in soils of the Southern Hemisphere*, **Science Advances**, in review, 2026
+
 
 **Published articles (29)**
 
 1. **Gupta, S.**, Scheper, S., Alewell, C.: *Mapping Swiss Soil Bulk Density at 30 m Resolution: Insights from Machine
 Learning, Environmental Covariates, and National Data*,  **International Journal of Applied Earth Observation and Geoinformation**, [2026](https://www.sciencedirect.com/science/article/pii/S1569843226000282), [Dataset](https://doi.org/10.5281/zenodo.15274427)
 
-2. Hengl, T., Consoli, D., Tian, X., ... **Gupta, S.**, ... Harris, N.: *OpenLandMap-soildb: global soil information at 30~m spatial resolution for 2000--2022+ based on spatiotemporal Machine Learning and harmonized legacy soil samples and observations*, **Earth Syst. Sci. Data Discuss.**, **Accepted**, [2026](https://essd.copernicus.org/preprints/essd-2025-336/), [Dataset](https://zenodo.org/records/15470432)
+2. Hengl, T., Consoli, D., Tian, X., ... **Gupta, S.**, ... Harris, N.: *OpenLandMap-soildb: global soil information at 30~m spatial resolution for 2000--2022+ based on spatiotemporal Machine Learning and harmonized legacy soil samples and observations*, **Earth Syst. Sci. Data**, [2026](https://essd.copernicus.org/articles/18/989/2026/essd-18-989-2026.html), [Dataset](https://zenodo.org/records/15470432)
 
 3. **Gupta, S.**, Scheper, S., Borrelli, P., Panagos, P., Alewell, C.: *Soil erosion as a driver of eutrophication: an analysis of European lakes using Sentinel-2 satellite data*. **Climate Change Biology**, 31(9), e70494, [2025](https://onlinelibrary.wiley.com/doi/full/10.1111/gcb.70494)
 
