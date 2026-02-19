@@ -13,6 +13,8 @@ links:
     url: "https://drive.google.com/file/d/1HnCMDlBIJidsMSHoVw03IYAKFGVR72Zl/view?usp=sharing"
   - label: ResearchGate
     url: "https://www.researchgate.net/profile/Surya-Gupta-8"
+  
+    
     
     
 
@@ -67,9 +69,14 @@ B.tech in Agricultural Engineering | July 2009 - June 2013
 
 **12648-01** — Field Excursion: Ecological Site Assessment
 
+## Data Visualization
+
+- [Soil Hydraulic Properties Viewer](https://unibas.maps.arcgis.com/apps/webappviewer/index.html?id=53e83534937946b2a42ffbc8b0be31ff)
+
+
 ## Publications
 
-**Articles in review**
+**Manuscripts under review**
 
 1. Groß-Schmölders, M., **Gupta, S.**, Grady, M., Wania, A., Bengtsson, F., Alewell, C., *Building a framework to differentiate between pristine and drained peatlands in Europe by comparing molecular and spectral data*, **Climate Change Biology**, in review, 2026
 
