@@ -76,14 +76,6 @@ B.tech in Agricultural Engineering | July 2009 - June 2013
 
 ## Publications
 
-**Manuscripts under review**
-
-1. Groß-Schmölders, M., **Gupta, S.**, Grady, M., Wania, A., Bengtsson, F., Alewell, C., *Building a framework to differentiate between pristine and drained peatlands in Europe by comparing molecular and spectral data*, **Climate Change Biology**, in review, 2026
-
-2. Verhoef, A., Zeng, Y., Agam, N., Best, M., Bonetti, S., Boussetta, S., Chaney, N., Cuntz, M., Edwards, J., **Gupta, S.**, Heitman, J., Huang, M., Jarvis, N., Jiang, S., Kandala, R., Kiałka, F., Lian, T., Mu, M., Nemes, A., Paulus, S. J., Raoult, N., Reddy, K. N., Romano, N., Sabot, M., Vanderborght, J., van der Ploeg, M., van Oevelen, P., Wang, Y., Wang, Y., Weber, T. K. D., Marthews, T., Weihermüller, L. (2026). *Rethinking Soils in Land Surface Models*, **Bulletin of the American Meteorological Society**, Meeting Summary.
-
-3. Avcıoğlu, A., Dicen, G., **Gupta, S.**, Alewell, C.,.........Meusburger, K.: *Radioactive fallout legacy of nuclear tests in soils of the Southern Hemisphere*, **Science Advances**, in review, 2026, [Dataset](https://zenodo.org/records/18492750)
-
 **First-author publications (16)**
 
 1. **Gupta, S.**, Scheper, S., Alewell, C.: *Mapping Swiss Soil Bulk Density at 30 m Resolution: Insights from Machine
@@ -120,33 +112,41 @@ Learning, Environmental Covariates, and National Data*,  **International Journal
 16. **Gupta, S.**, and Singh, J.P.: *Multiple well point system for irrigation and drainage in south western Punjab*. **Journal of Research**, 51:175–180, [2014](https://www.indianjournals.com/ijor.aspx?target=ijor:jre&volume=51&issue=2&article=018)
 
 
-**Co-authored publications (13)**
+**Co-authored publications (14)**
 
 1. Hengl, T., Consoli, D., Tian, X., ... **Gupta, S.**, ... Harris, N.: *OpenLandMap-soildb: global soil information at 30~m spatial resolution for 2000--2022+ based on spatiotemporal Machine Learning and harmonized legacy soil samples and observations*, **Earth Syst. Sci. Data**, [2026](https://essd.copernicus.org/articles/18/989/2026/essd-18-989-2026.html), [Dataset](https://zenodo.org/records/15470432)
 
-2. Shokri, N., Robinson, D., Afshar, M., Alewell, C., ... **Gupta, S.**, ... Or, D.: *Rethinking Global Soil Degradation: Drivers, Impacts, and Solutions*, **Reviews of Geophysics**, [2025](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025RG000883)
+2. Verhoef, A., Zeng, Y., Agam, N., Best, M., Bonetti, S., Boussetta, S., Chaney, N., Cuntz, M., Edwards, J., **Gupta, S.**, Heitman, J., Huang, M., Jarvis, N., Jiang, S., Kandala, R., Kiałka, F., Lian, T., Mu, M., Nemes, A., Paulus, S. J., Raoult, N., Reddy, K. N., Romano, N., Sabot, M., Vanderborght, J., van der Ploeg, M., van Oevelen, P., Wang, Y., Wang, Y., Weber, T. K. D., Marthews, T., Weihermüller, L.: *Rethinking Soils in Land Surface Models*, **Bulletin of the American Meteorological Society**, **Accepted**, Meeting Summary, 2026
 
-3. Cox, T., **Gupta, S.**, Birkholz, A., and Alewell, C.: *Using iso-scapes to address within-source variability in compound specific stable isotope sediment source apportionments*, **Journal of Soils and Sediments**, [2025](https://link.springer.com/article/10.1007/s11368-025-04069-9)
+3. Shokri, N., Robinson, D., Afshar, M., Alewell, C., ... **Gupta, S.**, ... Or, D.: *Rethinking Global Soil Degradation: Drivers, Impacts, and Solutions*, **Reviews of Geophysics**, [2025](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025RG000883)
 
-4. Dicen, G., Guillevic, F., **Gupta, S.**, Chaboche, P.-A., Meusburger, K., Sabatier, P., Evrard, O., and Alewell, C.: *Distribution and sources of fallout 137Cs and 239+240Pu in Equatorial and Southern Hemisphere reference soils*, **Earth Syst. Sci. Data Discuss.**, 17, 1529–1549, [2025](https://essd.copernicus.org/articles/17/1529/2025/), [Dataset](https://zenodo.org/records/14008221)
+4. Cox, T., **Gupta, S.**, Birkholz, A., and Alewell, C.: *Using iso-scapes to address within-source variability in compound specific stable isotope sediment source apportionments*, **Journal of Soils and Sediments**, [2025](https://link.springer.com/article/10.1007/s11368-025-04069-9)
 
-5. Tobias Karl David Weber, Lutz Weihermüller, Attila Nemes, Michel Bechtold, Aurore Degré, Efstathios Diamantopoulos, Fatichi, S., Filipović, V., **Gupta, S.**, Yonggen Zhang, and Sara Bonetti: *Hydro-pedotransfer functions: A roadmap for future development*. **Hydrology and Earth System Sciences**, 28(14), 3391–3433, [2024](https://hess.copernicus.org/articles/28/3391/2024/)
+5. Dicen, G., Guillevic, F., **Gupta, S.**, Chaboche, P.-A., Meusburger, K., Sabatier, P., Evrard, O., and Alewell, C.: *Distribution and sources of fallout 137Cs and 239+240Pu in Equatorial and Southern Hemisphere reference soils*, **Earth Syst. Sci. Data Discuss.**, 17, 1529–1549, [2025](https://essd.copernicus.org/articles/17/1529/2025/), [Dataset](https://zenodo.org/records/14008221)
 
-6. Bouasria, A., Bouslihim, Y., **Gupta, S.**, Taghizadeh-Mehrjardi, R., Hengl, T.: *Testing predictive performance of Machine Learning models under varying sampling design, extent, and training data size: size makes difference, sampling algorithm less*. **Ecological Informatics**, 102294, [2023](https://www.sciencedirect.com/science/article/pii/S1574954123003230?casa_token=jjiYylwOU0YAAAAA:VKXNsNx_PuYkHwFOZQsVjuKoD2Uo6hnV5Jdgqxx2g3w2p6cs9Zg7RdsBSiAV1q6BfCLbDrjQm_Y)
+6. Tobias Karl David Weber, Lutz Weihermüller, Attila Nemes, Michel Bechtold, Aurore Degré, Efstathios Diamantopoulos, Fatichi, S., Filipović, V., **Gupta, S.**, Yonggen Zhang, and Sara Bonetti: *Hydro-pedotransfer functions: A roadmap for future development*. **Hydrology and Earth System Sciences**, 28(14), 3391–3433, [2024](https://hess.copernicus.org/articles/28/3391/2024/)
 
-7. Borrelli, P., Alewell, C., **Gupta, S.**, Matthews, F., Panagos, P.: *Towards a better understanding of pathways of multiple concurrent erosion processes on global cropland*. **International Soil and Water Conservation Research**, [2023](https://www.sciencedirect.com/science/article/pii/S209563392300062X)
+7. Bouasria, A., Bouslihim, Y., **Gupta, S.**, Taghizadeh-Mehrjardi, R., Hengl, T.: *Testing predictive performance of Machine Learning models under varying sampling design, extent, and training data size: size makes difference, sampling algorithm less*. **Ecological Informatics**, 102294, [2023](https://www.sciencedirect.com/science/article/pii/S1574954123003230?casa_token=jjiYylwOU0YAAAAA:VKXNsNx_PuYkHwFOZQsVjuKoD2Uo6hnV5Jdgqxx2g3w2p6cs9Zg7RdsBSiAV1q6BfCLbDrjQm_Y)
 
-8. Kukal, M., Irmak, S., Dobos, R., **Gupta, S.**: *Atmospheric Dryness Impacts on Crop Yields are Buffered in Soils with Higher Available Water Capacity*. **Geoderma**, 429, 116270, [2023](https://www.sciencedirect.com/science/article/pii/S0016706122005778#f0005)
+8. Borrelli, P., Alewell, C., **Gupta, S.**, Matthews, F., Panagos, P.: *Towards a better understanding of pathways of multiple concurrent erosion processes on global cropland*. **International Soil and Water Conservation Research**, [2023](https://www.sciencedirect.com/science/article/pii/S209563392300062X)
 
-9. Li, L., Dai, Y., Shangguan, W., Wei, N., Wei, Z., **Gupta, S.**: *Multistep forecasting of soil moisture using a spatiotemporal deep encoder-decoder network*. **Journal of Hydrometeorology**, [2022](https://journals.ametsoc.org/view/journals/hydr/aop/JHM-D-21-0131.1/JHM-D-21-0131.1.xml)
+9. Kukal, M., Irmak, S., Dobos, R., **Gupta, S.**: *Atmospheric Dryness Impacts on Crop Yields are Buffered in Soils with Higher Available Water Capacity*. **Geoderma**, 429, 116270, [2023](https://www.sciencedirect.com/science/article/pii/S0016706122005778#f0005)
 
-10. Adla, S., **Gupta, S.**, Karumanchi, S.H., Tripathi, S., Disse, M., Pande, S.: *Agricultural advisory diagnostics using a community driven data-based approach: test case in an intensively managed rural landscape in the Ganga River Basin, India*. **Frontiers in Water (Water and Human Systems)**, [2022](https://www.frontiersin.org/articles/10.3389/frwa.2021.798241/abstract)
+10. Li, L., Dai, Y., Shangguan, W., Wei, N., Wei, Z., **Gupta, S.**: *Multistep forecasting of soil moisture using a spatiotemporal deep encoder-decoder network*. **Journal of Hydrometeorology**, [2022](https://journals.ametsoc.org/view/journals/hydr/aop/JHM-D-21-0131.1/JHM-D-21-0131.1.xml)
 
-11. Lehmann, P., Leshchinsky, B., **Gupta, S.**, Mirus, B., Bickel, S., Lu, N., and Or, D.: *Clays are not created equal: how clay mineral type affects soil parameterization*. **Geophysical Research Letters**, [2021](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2021GL095311)
+11. Adla, S., **Gupta, S.**, Karumanchi, S.H., Tripathi, S., Disse, M., Pande, S.: *Agricultural advisory diagnostics using a community driven data-based approach: test case in an intensively managed rural landscape in the Ganga River Basin, India*. **Frontiers in Water (Water and Human Systems)**, [2022](https://www.frontiersin.org/articles/10.3389/frwa.2021.798241/abstract)
 
-12. Sinha, R., **Gupta, S.**, and Nepal, S.: *Groundwater dynamics in North Bihar plains*. **Current Science**, 114(12), 2482–2493, [2018](https://lib.icimod.org/record/33891)
+12. Lehmann, P., Leshchinsky, B., **Gupta, S.**, Mirus, B., Bickel, S., Lu, N., and Or, D.: *Clays are not created equal: how clay mineral type affects soil parameterization*. **Geophysical Research Letters**, [2021](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2021GL095311)
 
-13. Kumar, S., and **Gupta, S.**: *Geospatial approach in mapping soil erodibility using CartoDEM: A case study in hilly watershed of Lower Himalayan Range*. **Journal of Earth System Science**, 125(7), 1463–1472, [2016](https://link.springer.com/article/10.1007/s12040-016-0738-2)
+13. Sinha, R., **Gupta, S.**, and Nepal, S.: *Groundwater dynamics in North Bihar plains*. **Current Science**, 114(12), 2482–2493, [2018](https://lib.icimod.org/record/33891)
+
+14. Kumar, S., and **Gupta, S.**: *Geospatial approach in mapping soil erodibility using CartoDEM: A case study in hilly watershed of Lower Himalayan Range*. **Journal of Earth System Science**, 125(7), 1463–1472, [2016](https://link.springer.com/article/10.1007/s12040-016-0738-2)
+
+**Manuscripts under review**
+
+1. Groß-Schmölders, M., **Gupta, S.**, Grady, M., Wania, A., Bengtsson, F., Alewell, C., *Building a framework to differentiate between pristine and drained peatlands in Europe by comparing molecular and spectral data*, **Climate Change Biology**, in review, 2026
+
+2. Avcıoğlu, A., Dicen, G., **Gupta, S.**, Alewell, C.,.........Meusburger, K.: *Radioactive fallout legacy of nuclear tests in soils of the Southern Hemisphere*, **Science Advances**, in review, 2026, [Dataset](https://zenodo.org/records/18492750)
 
 
 ## Publications (Book Chapter)
