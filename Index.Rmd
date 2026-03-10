@@ -1,8 +1,8 @@
 ---
 title: "Surya Gupta"
 image: "surya.jpeg"
-links:
 
+links:
   - label: Twitter
     url: "https://twitter.com/suryagupta479"
   - label: GitHub
@@ -15,13 +15,11 @@ links:
     url: "https://www.researchgate.net/profile/Surya-Gupta-8"
   - label: Opendata
     url: "https://zenodo.org/communities/soil-hydrology-data/records?q=&l=list&p=1&s=10&sort=newest"
-  
-    
-    
-    
 
 output:
-  postcards::trestles
+  postcards::trestles:
+    includes:
+      in_header: analytics.html
 ---
  
 ## Bio
