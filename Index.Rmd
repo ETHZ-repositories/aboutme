@@ -10,7 +10,7 @@ links:
   - label: Google Scholar
     url: "https://scholar.google.com/citations?hl=en&user=K841NL0AAAAJ&view_op=list_works&sortby=pubdate"
   - label: CV
-    url: "https://drive.google.com/file/d/1HnCMDlBIJidsMSHoVw03IYAKFGVR72Zl/view?usp=sharing"
+    url: "https://drive.google.com/file/d/1-kuComHv-KpdB30SMCA4rEum19L48gME/view?usp=sharing"
   - label: ResearchGate
     url: "https://www.researchgate.net/profile/Surya-Gupta-8"
   - label: Opendata
