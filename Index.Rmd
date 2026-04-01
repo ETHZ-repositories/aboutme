@@ -83,7 +83,7 @@ Learning, Environmental Covariates, and National Data*,  **International Journal
 
 2. **Gupta, S.**, Scheper, S., Borrelli, P., Panagos, P., Alewell, C.: *Soil erosion as a driver of eutrophication: an analysis of European lakes using Sentinel-2 satellite data*. **Climate Change Biology**, 31(9), e70494, [2025](https://onlinelibrary.wiley.com/doi/full/10.1111/gcb.70494)
 
-3. Alewell, C., **Gupta, S.** (Joint First Author), Poulenard, J., Niquille, N., Kaiser, A., Shokri, N., Scheper, S., Gross-Schmölders, M., Robinson, D., Campbell, G., Kabala, C., Lang, F., Dise, N., Panagos, P., Borrelli, P.: *Assessing soil health quantitatively at European scale considering soil genesis*, **Journal of Plant Nutrition and Soil Science**, [2025](https://doi.org/10.1002/jpln.70034)
+3. Alewell, C., **Gupta, S.** (Joint First Author), Poulenard, J., Niquille, N., Kaiser, A., Shokri, N., Scheper, S., Gross-Schmölders, M., Robinson, D., Campbell, G., Kabala, C., Lang, F., Dise, N., Panagos, P., Borrelli, P.: *Assessing soil health quantitatively at European scale considering soil genesis*, **Journal of Plant Nutrition and Soil Science**, [2025](https://doi.org/10.1002/jpln.70034), [Interactive map](https://www.google.com/maps/d/u/0/edit?mid=1LdyqCR4hiMQz2J8JLLroSd4LxWPTlok&ll=50.65972428842939%2C10.275450390000021&z=4)
 
 4. **Gupta, S.**, Zweifel, L., Birkholz, A., Meusburger, K., Leitinger, G., Alewell, C.: *Mapping Snow Gliding Distances: Bridging Modelled and Field Observations*. **Cold Regions Science and Technology**, 104402, [2025](https://www.sciencedirect.com/science/article/pii/S0165232X24002830)
 
@@ -116,7 +116,7 @@ Learning, Environmental Covariates, and National Data*,  **International Journal
 
 1. Hengl, T., Consoli, D., Tian, X., ... **Gupta, S.**, ... Harris, N.: *OpenLandMap-soildb: global soil information at 30~m spatial resolution for 2000--2022+ based on spatiotemporal Machine Learning and harmonized legacy soil samples and observations*, **Earth Syst. Sci. Data**, [2026](https://essd.copernicus.org/articles/18/989/2026/essd-18-989-2026.html), [Dataset](https://zenodo.org/records/15470432)
 
-2. Verhoef, A., Zeng, Y., Agam, N., Best, M., Bonetti, S., Boussetta, S., Chaney, N., Cuntz, M., Edwards, J., **Gupta, S.**, Heitman, J., Huang, M., Jarvis, N., Jiang, S., Kandala, R., Kiałka, F., Lian, T., Mu, M., Nemes, A., Paulus, S. J., Raoult, N., Reddy, K. N., Romano, N., Sabot, M., Vanderborght, J., van der Ploeg, M., van Oevelen, P., Wang, Y., Wang, Y., Weber, T. K. D., Marthews, T., Weihermüller, L.: *Rethinking Soils in Land Surface Models*, **Bulletin of the American Meteorological Society**, **Accepted**, Meeting Summary, 2026
+2. Verhoef, A., Zeng, Y., Agam, N., Best, M., Bonetti, S., Boussetta, S., Chaney, N., Cuntz, M., Edwards, J., **Gupta, S.**, Heitman, J., Huang, M., Jarvis, N., Jiang, S., Kandala, R., Kiałka, F., Lian, T., Mu, M., Nemes, A., Paulus, S. J., Raoult, N., Reddy, K. N., Romano, N., Sabot, M., Vanderborght, J., van der Ploeg, M., van Oevelen, P., Wang, Y., Wang, Y., Weber, T. K. D., Marthews, T., Weihermüller, L.: *Rethinking Soils in Land Surface Models*, **Bulletin of the American Meteorological Society**, Meeting Summary, [2026](https://journals.ametsoc.org/view/journals/bams/107/3/BAMS-D-26-0003.1.xml?utm_source=researchgate.net&utm_medium=article)
 
 3. Shokri, N., Robinson, D., Afshar, M., Alewell, C., ... **Gupta, S.**, ... Or, D.: *Rethinking Global Soil Degradation: Drivers, Impacts, and Solutions*, **Reviews of Geophysics**, [2025](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025RG000883)
 
@@ -144,9 +144,7 @@ Learning, Environmental Covariates, and National Data*,  **International Journal
 
 **Manuscripts under review**
 
-1. Groß-Schmölders, M., **Gupta, S.**, Grady, M., Wania, A., Bengtsson, F., Alewell, C., *Building a framework to differentiate between pristine and drained peatlands in Europe by comparing molecular and spectral data*, **Climate Change Biology**, in review, 2026
-
-2. Avcıoğlu, A., Dicen, G., **Gupta, S.**, Alewell, C.,.........Meusburger, K.: *Radioactive fallout legacy of nuclear tests in soils of the Southern Hemisphere*, **Science Advances**, in review, 2026, [Dataset](https://zenodo.org/records/18492750)
+1. Groß-Schmölders, M., **Gupta, S.**, Grady, M., Wania, A., Bengtsson, F., Alewell, C., *Building a framework to differentiate between pristine and drained peatlands in Europe by comparing molecular and spectral data*, **Ecology and Evolution**, in review, [2026](https://www.authorea.com/users/1039435/articles/1398627-building-a-framework-to-differentiate-peatland-condition-in-europe-by-linking-spectral-and-molecular-data)
 
 
 ## Publications (Book Chapter)
