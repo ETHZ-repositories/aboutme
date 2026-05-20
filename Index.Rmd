@@ -149,7 +149,7 @@ Learning, Environmental Covariates, and National Data*,  **International Journal
 
 2. Groß-Schmölders, M., **Gupta, S.**, Grady, M., Wania, A., Bengtsson, F., Alewell, C., *Building a framework to differentiate between pristine and drained peatlands in Europe by comparing molecular and spectral data*, **Ecology and Evolution**, in review, [2026](https://www.authorea.com/users/1039435/articles/1398627-building-a-framework-to-differentiate-peatland-condition-in-europe-by-linking-spectral-and-molecular-data)
 
-3. Avcıoğlu, A., Dicen, G., **Gupta, S.**, Alewell, C.,.........Meusburger, K.: *Radioactive fallout legacy of nuclear tests in soils of the Southern Hemisphere*, **Nature Communications**, in review, 2026, [Dataset](https://zenodo.org/records/18492750)
+3. Avcıoğlu, A., Dicen, G., **Gupta, S.**, Alewell, C.,.........Meusburger, K.: *Radioactive fallout legacy of nuclear tests in soils of the Southern Hemisphere*, **Science Advances**, in review, 2026, [Dataset](https://zenodo.org/records/18492750)
 
 
 ## Publications (Book Chapter)
