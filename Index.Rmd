@@ -73,6 +73,7 @@ B.tech in Agricultural Engineering | July 2009 - June 2013
 
 - [Soil Hydraulic Properties Viewer](https://unibas.maps.arcgis.com/apps/instant/basic/index.html?appid=dee4a54333d14f4a81f2056a65a58d9b)
 
+- [Swiss Soil Properties Viewer](https://unibas.maps.arcgis.com/apps/instant/basic/index.html?appid=9f171ebe088140dfa01502260a39f5f8)
 
 ## Publications
 
