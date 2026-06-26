@@ -13,7 +13,7 @@ links:
     url: "https://drive.google.com/file/d/1-kuComHv-KpdB30SMCA4rEum19L48gME/view?usp=sharing"
   - label: ResearchGate
     url: "https://www.researchgate.net/profile/Surya-Gupta-8"
-  - label: Opendata
+  - label: Soil Properties data
     url: "https://zenodo.org/communities/soil-hydrology-data/records?q=&l=list&p=1&s=10&sort=newest"
 
 output:
