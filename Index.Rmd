@@ -151,6 +151,8 @@ Learning, Environmental Covariates, and National Data*,  **International Journal
 
 3. Avcıoğlu, A., Dicen, G., **Gupta, S.**, Alewell, C.,.........Meusburger, K.: *Radioactive fallout legacy of nuclear tests in soils of the Southern Hemisphere*, **Communications Earth & Environment**, in review, 2026, [Dataset](https://zenodo.org/records/18492750)
 
+4. Alewell, C., **Gupta, S.** (Joint First Author), Tang, F., Avila. A., Garcia-Reyes, J., Rascón, A, Sáez, C., Valenzuela, V., Panagos, P., Borrelli, P.: *Advancing SHERPA for integrated soil health assessment reveals widespread degradation in Mediterranean olive agroecosystems*, **European Journal of Agronomy** in review, 2026, [Interactive map](https://unibas.maps.arcgis.com/apps/instant/basic/index.html?appid=e46a3a415d1540da87b3876d15665288) 
+
 
 ## Publications (Book Chapter)
 
