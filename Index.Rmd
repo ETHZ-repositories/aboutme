@@ -79,6 +79,8 @@ B.tech in Agricultural Engineering | July 2009 - June 2013
 
 **First-author publications (16)**
 
+1. **Gupta, S.**, Alewell, C., Ballabio, C., Panagos, P., *Soil Hydraulic Properties of Europe at 500 m Resolution Using EUPTFv2 and LUCAS Soil Data*, **Hydrological Processes (data note)**, in review, 2026
+
 1. **Gupta, S.**, Scheper, S., Alewell, C.: *Mapping Swiss Soil Bulk Density at 30 m Resolution: Insights from Machine
 Learning, Environmental Covariates, and National Data*,  **International Journal of Applied Earth Observation and Geoinformation**, [2026](https://www.sciencedirect.com/science/article/pii/S1569843226000282), [Dataset](https://doi.org/10.5281/zenodo.15274427)
 
