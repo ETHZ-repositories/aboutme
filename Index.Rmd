@@ -77,42 +77,42 @@ B.tech in Agricultural Engineering | July 2009 - June 2013
 
 ## Publications
 
-**First-author publications (16)**
+**First-author publications (17)**
 
-1. **Gupta, S.**, Alewell, C., Ballabio, C., Panagos, P., *Soil Hydraulic Properties of Europe at 500 m Resolution Using EUPTFv2 and LUCAS Soil Data*, **Hydrological Processes (data note)**, in review, 2026
+1. **Gupta, S.**, Alewell, C., Ballabio, C., Panagos, P., *Soil Hydraulic Properties of Europe at 500 m Resolution Using EUPTFv2 and LUCAS Soil Data*, **Hydrological Processes (data note)**, **Accepted**, 2026
 
-1. **Gupta, S.**, Scheper, S., Alewell, C.: *Mapping Swiss Soil Bulk Density at 30 m Resolution: Insights from Machine
+2. **Gupta, S.**, Scheper, S., Alewell, C.: *Mapping Swiss Soil Bulk Density at 30 m Resolution: Insights from Machine
 Learning, Environmental Covariates, and National Data*,  **International Journal of Applied Earth Observation and Geoinformation**, [2026](https://www.sciencedirect.com/science/article/pii/S1569843226000282), [Dataset](https://doi.org/10.5281/zenodo.15274427)
 
-2. **Gupta, S.**, Scheper, S., Borrelli, P., Panagos, P., Alewell, C.: *Soil erosion as a driver of eutrophication: an analysis of European lakes using Sentinel-2 satellite data*. **Climate Change Biology**, 31(9), e70494, [2025](https://onlinelibrary.wiley.com/doi/full/10.1111/gcb.70494)
+3. **Gupta, S.**, Scheper, S., Borrelli, P., Panagos, P., Alewell, C.: *Soil erosion as a driver of eutrophication: an analysis of European lakes using Sentinel-2 satellite data*. **Climate Change Biology**, 31(9), e70494, [2025](https://onlinelibrary.wiley.com/doi/full/10.1111/gcb.70494)
 
-3. Alewell, C., **Gupta, S.** (Joint First Author), Poulenard, J., Niquille, N., Kaiser, A., Shokri, N., Scheper, S., Gross-Schmölders, M., Robinson, D., Campbell, G., Kabala, C., Lang, F., Dise, N., Panagos, P., Borrelli, P.: *Assessing soil health quantitatively at European scale considering soil genesis*, **Journal of Plant Nutrition and Soil Science**, [2025](https://doi.org/10.1002/jpln.70034), [Interactive map](https://www.google.com/maps/d/u/0/edit?mid=1LdyqCR4hiMQz2J8JLLroSd4LxWPTlok&ll=50.65972428842939%2C10.275450390000021&z=4)
+4. Alewell, C., **Gupta, S.** (Joint First Author), Poulenard, J., Niquille, N., Kaiser, A., Shokri, N., Scheper, S., Gross-Schmölders, M., Robinson, D., Campbell, G., Kabala, C., Lang, F., Dise, N., Panagos, P., Borrelli, P.: *Assessing soil health quantitatively at European scale considering soil genesis*, **Journal of Plant Nutrition and Soil Science**, [2025](https://doi.org/10.1002/jpln.70034), [Interactive map](https://www.google.com/maps/d/u/0/edit?mid=1LdyqCR4hiMQz2J8JLLroSd4LxWPTlok&ll=50.65972428842939%2C10.275450390000021&z=4)
 
-4. **Gupta, S.**, Zweifel, L., Birkholz, A., Meusburger, K., Leitinger, G., Alewell, C.: *Mapping Snow Gliding Distances: Bridging Modelled and Field Observations*. **Cold Regions Science and Technology**, 104402, [2025](https://www.sciencedirect.com/science/article/pii/S0165232X24002830)
+5. **Gupta, S.**, Zweifel, L., Birkholz, A., Meusburger, K., Leitinger, G., Alewell, C.: *Mapping Snow Gliding Distances: Bridging Modelled and Field Observations*. **Cold Regions Science and Technology**, 104402, [2025](https://www.sciencedirect.com/science/article/pii/S0165232X24002830)
 
-5. **Gupta, S.**, Hasler, J.K., Alewell, C.: *Mining soil data of Switzerland: New maps for soil texture, soil organic carbon, nitrogen, and phosphorus*. **Geoderma Regional**, e00747, [2024](https://www.sciencedirect.com/science/article/pii/S2352009423001438), [Dataset](https://zenodo.org/record/7821650)
+6. **Gupta, S.**, Hasler, J.K., Alewell, C.: *Mining soil data of Switzerland: New maps for soil texture, soil organic carbon, nitrogen, and phosphorus*. **Geoderma Regional**, e00747, [2024](https://www.sciencedirect.com/science/article/pii/S2352009423001438), [Dataset](https://zenodo.org/record/7821650)
 
-6. **Gupta, S.**, Borrelli, P., Panagos, P., Alewell, C.: *An Advanced Global Soil Erodibility Assessment Including the Effects of Saturated Hydraulic Conductivity*. **Science of the Total Environment**, 908, 168249, [2024](https://www.sciencedirect.com/science/article/pii/S0048969723068766), [Dataset](https://esdac.jrc.ec.europa.eu/content/global-soil-erodibility#tabs-0-description=0&tabs-0-description-2=)
+7. **Gupta, S.**, Borrelli, P., Panagos, P., Alewell, C.: *An Advanced Global Soil Erodibility Assessment Including the Effects of Saturated Hydraulic Conductivity*. **Science of the Total Environment**, 908, 168249, [2024](https://www.sciencedirect.com/science/article/pii/S0048969723068766), [Dataset](https://esdac.jrc.ec.europa.eu/content/global-soil-erodibility#tabs-0-description=0&tabs-0-description-2=)
 
-7. **Gupta, S.**, Lehmann, P., Bickel, S., Bonetti, S., and Or, D.: *Global maps of potential and climatic plant-available soil water*. **Journal of Advances in Modeling Earth Systems**, 15(11), e2022MS003277, [2023](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2022MS003277), [Dataset](https://zenodo.org/record/6777126#.YrwahXZBxPY)
+8. **Gupta, S.**, Lehmann, P., Bickel, S., Bonetti, S., and Or, D.: *Global maps of potential and climatic plant-available soil water*. **Journal of Advances in Modeling Earth Systems**, 15(11), e2022MS003277, [2023](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2022MS003277), [Dataset](https://zenodo.org/record/6777126#.YrwahXZBxPY)
 
-8. **Gupta, S.**, Papritz, A., Lehmann, P., Hengl, T., Bonetti, S., and Or, D.: *Global Soil Hydraulic Properties dataset based on legacy site observations and robust parameterization*. **Scientific Data**, 9, 444, [2022](https://www.nature.com/articles/s41597-022-01481-5), [Dataset](https://zenodo.org/record/6640246#.Yt_3eHZBxPY)
+9. **Gupta, S.**, Papritz, A., Lehmann, P., Hengl, T., Bonetti, S., and Or, D.: *Global Soil Hydraulic Properties dataset based on legacy site observations and robust parameterization*. **Scientific Data**, 9, 444, [2022](https://www.nature.com/articles/s41597-022-01481-5), [Dataset](https://zenodo.org/record/6640246#.Yt_3eHZBxPY)
 
-9. **Gupta, S.**, Papritz, A., Lehmann, P., Hengl, T., Bonetti, S., and Or, D.: *Global Mapping of Soil Water Characteristics Parameters – Fusing Curated Data with Machine Learning and Environmental Covariates*. **Remote Sensing**, 14(8):1947, [2022](https://www.mdpi.com/2072-4292/14/8/1947), [Dataset](https://zenodo.org/record/6348799#.YmJXAuhBybg)
+10. **Gupta, S.**, Papritz, A., Lehmann, P., Hengl, T., Bonetti, S., and Or, D.: *Global Mapping of Soil Water Characteristics Parameters – Fusing Curated Data with Machine Learning and Environmental Covariates*. **Remote Sensing**, 14(8):1947, [2022](https://www.mdpi.com/2072-4292/14/8/1947), [Dataset](https://zenodo.org/record/6348799#.YmJXAuhBybg)
 
-10. **Gupta, S.**, Bonetti, S., Lehmann, P., and Or, D.: *Limited role of soil texture in mediating natural vegetation response to rainfall anomalies*. **Environmental Research Letters**, [2022](https://iopscience.iop.org/article/10.1088/1748-9326/ac5206)
+11. **Gupta, S.**, Bonetti, S., Lehmann, P., and Or, D.: *Limited role of soil texture in mediating natural vegetation response to rainfall anomalies*. **Environmental Research Letters**, [2022](https://iopscience.iop.org/article/10.1088/1748-9326/ac5206)
 
-11. **Gupta, S.**, Lehmann, P., Bonetti, S., Papritz, A., and Or, D.: *Global prediction of soil saturated hydraulic conductivity using random forest in a Covariate-based GeoTransfer Function (CoGTF) framework*. **Journal of Advances in Modeling Earth Systems**, 13, e2020MS002242, [2021](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2020MS002242), [Dataset](https://zenodo.org/record/3935359#.X-dWZthKhPY)
+12. **Gupta, S.**, Lehmann, P., Bonetti, S., Papritz, A., and Or, D.: *Global prediction of soil saturated hydraulic conductivity using random forest in a Covariate-based GeoTransfer Function (CoGTF) framework*. **Journal of Advances in Modeling Earth Systems**, 13, e2020MS002242, [2021](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2020MS002242), [Dataset](https://zenodo.org/record/3935359#.X-dWZthKhPY)
 
-12. **Gupta, S.**, Hengl, T., Lehmann, P., Bonetti, S., and Or, D.: *SoilKsatDB: global database of soil saturated hydraulic conductivity measurements for geoscience applications*. **Earth System Science Data**, 13(4), 1593–1612, [2021](https://essd.copernicus.org/articles/13/1593/2021/), [Dataset](https://doi.org/10.5281/zenodo.3752721)
+13. **Gupta, S.**, Hengl, T., Lehmann, P., Bonetti, S., and Or, D.: *SoilKsatDB: global database of soil saturated hydraulic conductivity measurements for geoscience applications*. **Earth System Science Data**, 13(4), 1593–1612, [2021](https://essd.copernicus.org/articles/13/1593/2021/), [Dataset](https://doi.org/10.5281/zenodo.3752721)
 
-13. **Gupta, S.**, Harsha, K.S., Dash, S.K., Adla, S., Tripathi, S., Sinha, R., Paul, D., and Sen, I.S.: *Setting up a CZO in the Heterogeneous Ecosystem of an Agro Rural Terrain (HEART) of the Ganga Basin*. **EOS**, 100, [2019](https://eos.org/science-updates/monitoring-ecosystem-health-in-indias-food-basket)
+14. **Gupta, S.**, Harsha, K.S., Dash, S.K., Adla, S., Tripathi, S., Sinha, R., Paul, D., and Sen, I.S.: *Setting up a CZO in the Heterogeneous Ecosystem of an Agro Rural Terrain (HEART) of the Ganga Basin*. **EOS**, 100, [2019](https://eos.org/science-updates/monitoring-ecosystem-health-in-indias-food-basket)
 
-14. **Gupta, S.**, and Kumar, S.: *Simulating climate change impact on soil erosion using RUSLE model: A case study in a watershed of mid-Himalayan landscape*. **Journal of Earth System Science**, 126(4), 43, [2017](https://link.springer.com/article/10.1007/s12040-017-0823-1)
+15. **Gupta, S.**, and Kumar, S.: *Simulating climate change impact on soil erosion using RUSLE model: A case study in a watershed of mid-Himalayan landscape*. **Journal of Earth System Science**, 126(4), 43, [2017](https://link.springer.com/article/10.1007/s12040-017-0823-1)
 
-15. **Gupta, S.**, and Kumar, S.: *Simulating climate change impact on soil carbon sequestration in agro-ecosystem of Mid Himalayan landscape using CENTURY Model*. **Environmental Earth Sciences**, 76:394, [2017](https://link.springer.com/article/10.1007/s12665-017-6720-8)
+16. **Gupta, S.**, and Kumar, S.: *Simulating climate change impact on soil carbon sequestration in agro-ecosystem of Mid Himalayan landscape using CENTURY Model*. **Environmental Earth Sciences**, 76:394, [2017](https://link.springer.com/article/10.1007/s12665-017-6720-8)
 
-16. **Gupta, S.**, and Singh, J.P.: *Multiple well point system for irrigation and drainage in south western Punjab*. **Journal of Research**, 51:175–180, [2014](https://www.indianjournals.com/ijor.aspx?target=ijor:jre&volume=51&issue=2&article=018)
+17. **Gupta, S.**, and Singh, J.P.: *Multiple well point system for irrigation and drainage in south western Punjab*. **Journal of Research**, 51:175–180, [2014](https://www.indianjournals.com/ijor.aspx?target=ijor:jre&volume=51&issue=2&article=018)
 
 
 **Co-authored publications (14)**
@@ -147,13 +147,11 @@ Learning, Environmental Covariates, and National Data*,  **International Journal
 
 **Manuscripts under review**
 
-1. **Gupta, S.**, Alewell, C., Ballabio, C., Panagos, P., *Soil Hydraulic Properties of Europe at 500 m Resolution Using EUPTFv2 and LUCAS Soil Data*, **Hydrological Processes (data note)**, in review, 2026
+1. Groß-Schmölders, M., **Gupta, S.**, Grady, M., Wania, A., Bengtsson, F., Alewell, C., *Building a framework to differentiate between pristine and drained peatlands in Europe by comparing molecular and spectral data*, **Ecology and Evolution**, in review, [2026](https://www.authorea.com/users/1039435/articles/1398627-building-a-framework-to-differentiate-peatland-condition-in-europe-by-linking-spectral-and-molecular-data)
 
-2. Groß-Schmölders, M., **Gupta, S.**, Grady, M., Wania, A., Bengtsson, F., Alewell, C., *Building a framework to differentiate between pristine and drained peatlands in Europe by comparing molecular and spectral data*, **Ecology and Evolution**, in review, [2026](https://www.authorea.com/users/1039435/articles/1398627-building-a-framework-to-differentiate-peatland-condition-in-europe-by-linking-spectral-and-molecular-data)
+2. Avcıoğlu, A., Dicen, G., **Gupta, S.**, Alewell, C.,.........Meusburger, K.: *Radioactive fallout legacy of nuclear tests in soils of the Southern Hemisphere*, **Communications Earth & Environment**, in review, 2026, [Dataset](https://zenodo.org/records/18492750)
 
-3. Avcıoğlu, A., Dicen, G., **Gupta, S.**, Alewell, C.,.........Meusburger, K.: *Radioactive fallout legacy of nuclear tests in soils of the Southern Hemisphere*, **Communications Earth & Environment**, in review, 2026, [Dataset](https://zenodo.org/records/18492750)
-
-4. Alewell, C., **Gupta, S.** (Joint First Author), Tang, F., Avila. A., Garcia-Reyes, J., Rascón, A, Sáez, C., Valenzuela, V., Panagos, P., Borrelli, P.: *Advancing SHERPA for integrated soil health assessment reveals widespread degradation in Mediterranean olive agroecosystems*, **European Journal of Agronomy** in review, [2026](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7194385), [Interactive map](https://unibas.maps.arcgis.com/apps/instant/basic/index.html?appid=e46a3a415d1540da87b3876d15665288) 
+3. Alewell, C., **Gupta, S.** (Joint First Author), Tang, F., Avila. A., Garcia-Reyes, J., Rascón, A, Sáez, C., Valenzuela, V., Panagos, P., Borrelli, P.: *Advancing SHERPA for integrated soil health assessment reveals widespread degradation in Mediterranean olive agroecosystems*, **European Journal of Agronomy** in review, [2026](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7194385), [Interactive map](https://unibas.maps.arcgis.com/apps/instant/basic/index.html?appid=e46a3a415d1540da87b3876d15665288) 
 
 
 ## Publications (Book Chapter)
