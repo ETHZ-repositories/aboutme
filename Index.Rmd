@@ -79,10 +79,9 @@ B.tech in Agricultural Engineering | July 2009 - June 2013
 
 **First-author publications (17)**
 
-1. **Gupta, S.**, Alewell, C., Ballabio, C., Panagos, P., *Soil Hydraulic Properties of Europe at 500 m Resolution Using EUPTFv2 and LUCAS Soil Data*, **Hydrological Processes (data note)**, **Accepted**, 2026
+1. **Gupta, S.**, Alewell, C., Ballabio, C., Panagos, P., *Soil Hydraulic Properties of Europe at 500 m Resolution Using EUPTFv2 and LUCAS Soil Data*, **Hydrological Processes**, 40, no. 8: e70670, [2026](https://onlinelibrary.wiley.com/doi/10.1002/hyp.70670)
 
-2. **Gupta, S.**, Scheper, S., Alewell, C.: *Mapping Swiss Soil Bulk Density at 30 m Resolution: Insights from Machine
-Learning, Environmental Covariates, and National Data*,  **International Journal of Applied Earth Observation and Geoinformation**, [2026](https://www.sciencedirect.com/science/article/pii/S1569843226000282), [Dataset](https://doi.org/10.5281/zenodo.15274427)
+2. **Gupta, S.**, Scheper, S., Alewell, C.: *Mapping Swiss Soil Bulk Density at 30 m Resolution: Insights from Machine Learning, Environmental Covariates, and National Data*,  **International Journal of Applied Earth Observation and Geoinformation**, [2026](https://www.sciencedirect.com/science/article/pii/S1569843226000282), [Dataset](https://doi.org/10.5281/zenodo.15274427)
 
 3. **Gupta, S.**, Scheper, S., Borrelli, P., Panagos, P., Alewell, C.: *Soil erosion as a driver of eutrophication: an analysis of European lakes using Sentinel-2 satellite data*. **Climate Change Biology**, 31(9), e70494, [2025](https://onlinelibrary.wiley.com/doi/full/10.1111/gcb.70494)
 
