@@ -79,7 +79,7 @@ B.tech in Agricultural Engineering | July 2009 - June 2013
 
 **First-author publications (17)**
 
-1. **Gupta, S.**, Alewell, C., Ballabio, C., Panagos, P., *Soil Hydraulic Properties of Europe at 500 m Resolution Using EUPTFv2 and LUCAS Soil Data*, **Hydrological Processes**, 40, no. 8: e70670, [2026](https://onlinelibrary.wiley.com/doi/10.1002/hyp.70670)
+1. **Gupta, S.**, Alewell, C., Ballabio, C., Panagos, P., *Soil Hydraulic Properties of Europe at 500 m Resolution Using EUPTFv2 and LUCAS Soil Data*, **Hydrological Processes**, 40, no. 8: e70670, [2026](https://onlinelibrary.wiley.com/doi/10.1002/hyp.70670), [Dataset](https://esdac.jrc.ec.europa.eu/content/soil-hydraulic-properties-europe-using-euptfv2-and-lucas).
 
 2. **Gupta, S.**, Scheper, S., Alewell, C.: *Mapping Swiss Soil Bulk Density at 30 m Resolution: Insights from Machine Learning, Environmental Covariates, and National Data*,  **International Journal of Applied Earth Observation and Geoinformation**, [2026](https://www.sciencedirect.com/science/article/pii/S1569843226000282), [Dataset](https://doi.org/10.5281/zenodo.15274427)
 
@@ -150,7 +150,9 @@ B.tech in Agricultural Engineering | July 2009 - June 2013
 
 2. Avcıoğlu, A., Dicen, G., **Gupta, S.**, Alewell, C.,.........Meusburger, K.: *Radioactive fallout legacy of nuclear tests in soils of the Southern Hemisphere*, **Communications Earth & Environment**, in review, 2026, [Dataset](https://zenodo.org/records/18492750)
 
-3. Alewell, C., **Gupta, S.** (Joint First Author), Tang, F., Avila. A., Garcia-Reyes, J., Rascón, A, Sáez, C., Valenzuela, V., Panagos, P., Borrelli, P.: *Advancing SHERPA for integrated soil health assessment reveals widespread degradation in Mediterranean olive agroecosystems*, **European Journal of Agronomy** in review, [2026](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7194385), [Interactive map](https://unibas.maps.arcgis.com/apps/instant/basic/index.html?appid=e46a3a415d1540da87b3876d15665288) 
+3. Alewell, C., **Gupta, S.** (Joint First Author), Tang, F., Avila. A., Garcia-Reyes, J., Rascón, A, Sáez, C., Valenzuela, V., Panagos, P., Borrelli, P.: *Advancing SHERPA for integrated soil health assessment reveals widespread degradation in Mediterranean olive agroecosystems*, **European Journal of Agronomy**, in review, [2026](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7194385), [Interactive map](https://unibas.maps.arcgis.com/apps/instant/basic/index.html?appid=e46a3a415d1540da87b3876d15665288) 
+
+4. Borrelli, P et al.: *Global observations reveal patterns in soil degradation across agricultural landscapes*, **Science**, in review, 2026
 
 
 ## Publications (Book Chapter)
