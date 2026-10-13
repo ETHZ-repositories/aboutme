@@ -152,7 +152,9 @@ B.tech in Agricultural Engineering | July 2009 - June 2013
 
 1. Alewell, C., **Gupta, S.** (Joint First Author), Tang, F., Avila. A., Garcia-Reyes, J., Rascón, A, Sáez, C., Valenzuela, V., Panagos, P., Borrelli, P.: *Advancing SHERPA for integrated soil health assessment reveals widespread degradation in Mediterranean olive agroecosystems*, **European Journal of Agronomy**, in review, [2026](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7194385), [Interactive map](https://unibas.maps.arcgis.com/apps/instant/basic/index.html?appid=e46a3a415d1540da87b3876d15665288) 
 
-2. Borrelli, P et al.: *Global observations reveal patterns in soil degradation across agricultural landscapes*, **Science Advances**, in review, 2026
+2. Liedtke, J., **Gupta, S.,** Nievergelt, F., Amrhein, V., Alewell, C.:Reviewing soil health monitoring in protected areas and implications for soil health assessment, **Environmental Management**, in review, 2026
+
+3. Borrelli, P et al.: *Global observations reveal patterns in soil degradation across agricultural landscapes*, **Science Advances**, in review, 2026
 
 
 ## Publications (Book Chapter)
