@@ -156,7 +156,9 @@ B.tech in Agricultural Engineering | July 2009 - June 2013
 
 3. Borrelli, P et al.: *Global observations reveal patterns in soil degradation across agricultural landscapes*, **Science Advances**, in review, 2026
 
-3. Borrelli, P et al.: *A global georeferenced inventory of gully erosion in agricultural landscapes*, **Scientific Data**, in review, 2026
+4. Borrelli, P et al.: *A global georeferenced inventory of gully erosion in agricultural landscapes*, **Scientific Data**, in review, 2026
+
+5. Groß-Schmölders, M., **Gupta, S.**, Alewell, C.,: *Assessing the potential of Sentinel-2 for Distinguishing Pristine from Drained Peatlands*, **Remote Sensing Applications: Society and Environment**, in review, 2026
 
 
 ## Publications (Book Chapter)
