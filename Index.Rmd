@@ -116,9 +116,9 @@ B.tech in Agricultural Engineering | July 2009 - June 2013
 
 **Co-authored publications (16)**
 
-1. Groß-Schmölders, M., **Gupta, S.**, Grady, M., Wania, A., Bengtsson, F., Alewell, C., *Building a framework to differentiate between pristine and drained peatlands in Europe by comparing molecular and spectral data*, **Ecology and Evolution**, **Accepted**, [2026](https://www.authorea.com/users/1039435/articles/1398627-building-a-framework-to-differentiate-peatland-condition-in-europe-by-linking-spectral-and-molecular-data)
+1. Groß-Schmölders, M., **Gupta, S.**, Grady, M., Wania, A., Bengtsson, F., Alewell, C., *Building a framework to differentiate between pristine and drained peatlands in Europe by comparing molecular and spectral data*, **Ecology and Evolution**, 16, no. 11: e74658,  [2026](https://doi.org/10.1002/ece3.74658)
 
-2. Avcıoğlu, A., Dicen, G., **Gupta, S.**, Alewell, C.,.........Meusburger, K.: *Radioactive fallout legacy of nuclear tests in soils of the Southern Hemisphere*, **Communications Earth & Environment**, **Accepted**, 2026, [Dataset](https://zenodo.org/records/18492750)
+2. Avcıoğlu, A., Dicen, G., **Gupta, S.**, Alewell, C.,.........Meusburger, K.: *Radioactive fallout legacy of nuclear tests in soils of the Southern Hemisphere*, **Communications Earth & Environment**, [2026](https://doi.org/10.1038/s43247-026-04218-z), [Dataset](https://zenodo.org/records/18492750)
 
 3. Hengl, T., Consoli, D., Tian, X., ... **Gupta, S.**, ... Harris, N.: *OpenLandMap-soildb: global soil information at 30~m spatial resolution for 2000--2022+ based on spatiotemporal Machine Learning and harmonized legacy soil samples and observations*, **Earth Syst. Sci. Data**, [2026](https://essd.copernicus.org/articles/18/989/2026/essd-18-989-2026.html), [Dataset](https://zenodo.org/records/15470432)
 
